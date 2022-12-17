@@ -1,0 +1,492 @@
+,Date,Time,Contacts,Messages,Shift,date_time,message_count
+0,08/10/2022,8:20 PM,You're now an admi,You're now an admin,PM,2022-10-08 20:20:00,1
+1,08/10/2022,8:20 PM,Vishnu Satvik Cbit C1,https://docs.google.com/presentation/d/1_lnzg92THOoKz8IivNOxnNqBSHCBUNQuhwiwkAnnfdU/edit?usp=sharing,PM,2022-10-08 20:20:00,1
+2,08/10/2022,8:20 PM,Vishnu Satvik Cbit C1,https://www.irjmets.com/uploadedfiles/paper//issue_5_may_2022/24119/final/fin_irjmets1653279784.pdf,PM,2022-10-08 20:20:00,1
+3,08/10/2022,8:21 PM,Vishnu Satvik Cbit C1,This message was deleted,PM,2022-10-08 20:21:00,1
+4,08/10/2022,8:21 PM,Vishnu Satvik Cbit C1,https://www.ijltemas.in/DigitalLibrary/Vol.9Issue2/01-05.pdf,PM,2022-10-08 20:21:00,1
+5,08/10/2022,8:25 PM,instigator,"Good morning Dear Students tommorow at 11am Online team Review will be there u need to Present using ppt which contaning team details with mentor names, Problem u chosen, Background study about the problem, and paln of action methodolgy how u are going to implement, individual contribution these things u need to keep in slides and u need to present.",PM,2022-10-08 20:25:00,1
+6,08/10/2022,8:47 PM,instigator,https://docs.google.com/presentation/d/1UIpGczojgrT5D7wHOHOFNUfq3v7_zDJVe8vCjJ-z2Wc/edit?usp=sharing,PM,2022-10-08 20:47:00,1
+7,08/10/2022,9:18 PM,Sree Harshith Cbit,Vishnu nuv ochakane chedam ðŸ¥º,PM,2022-10-08 21:18:00,1
+8,08/10/2022,9:23 PM,Vishnu Satvik Cbit C1,Enduk ra,PM,2022-10-08 21:23:00,1
+9,08/10/2022,9:23 PM,Vishnu Satvik Cbit C1,Bokka,PM,2022-10-08 21:23:00,1
+10,08/10/2022,9:24 PM,Tanish Cbit C1,Andaru poyyaru,PM,2022-10-08 21:24:00,1
+11,08/10/2022,9:24 PM,Tanish Cbit C1,Dinner ki,PM,2022-10-08 21:24:00,1
+12,08/10/2022,9:32 PM,Sree Harshith Cbit,Ika randi ra andaru vishnu kuda ochadu,PM,2022-10-08 21:32:00,1
+13,08/10/2022,9:35 PM,Vishnu Satvik Cbit C1,https://wca-campusx.herokuapp.com/,PM,2022-10-08 21:35:00,1
+14,08/10/2022,9:36 PM,Tanish Cbit C1,https://monkeylearn.com/sentiment-analysis/,PM,2022-10-08 21:36:00,1
+15,08/10/2022,10:14 PM,Vishnu Satvik Cbit C1,https://www.irjmets.com/uploadedfiles/paper//issue_5_may_2022/22029/final/fin_irjmets1651575263.pdf,PM,2022-10-08 22:14:00,1
+16,08/10/2022,11:32 PM,Vishnu Satvik Cbit C1,<Media omitted>,PM,2022-10-08 23:32:00,1
+17,08/10/2022,11:38 PM,Tanish Cbit C1,<Media omitted>,PM,2022-10-08 23:38:00,1
+18,08/10/2022,11:38 PM,Tanish Cbit C1,<Media omitted>,PM,2022-10-08 23:38:00,1
+19,08/10/2022,11:41 PM,Tanish Cbit C1,https://i.pinimg.com/736x/8c/98/99/8c98994518b575bfd8c949e91d20548b.jpg,PM,2022-10-08 23:41:00,1
+20,09/10/2022,12:05 AM,Vishnu Satvik Cbit C1,<Media omitted>,AM,2022-10-09 00:05:00,1
+21,09/10/2022,12:05 AM,Tanish Cbit C1,<Media omitted>,AM,2022-10-09 00:05:00,1
+22,09/10/2022,12:06 AM,Vishnu Satvik Cbit C1,This message was deleted,AM,2022-10-09 00:06:00,1
+23,09/10/2022,12:06 AM,Tanish Cbit C1,ðŸ˜ðŸ¦ŠðŸ˜,AM,2022-10-09 00:06:00,1
+24,09/10/2022,12:08 AM,Tanish Cbit C1,This whole credit goes to @917013036431 @918367721870 @917893321679 @918520075903 @917337072337 gaaru andi,AM,2022-10-09 00:08:00,1
+25,09/10/2022,12:09 AM,Tanish Cbit C1,Ganta lenu nenu starting lo mottam chesaru appatikeðŸ¦ŠðŸ”¥ðŸ”¥,AM,2022-10-09 00:09:00,1
+26,09/10/2022,12:10 AM,Vishnu Satvik Cbit C1,Tarvata nuv entha chesavo telsinde ga,AM,2022-10-09 00:10:00,1
+27,09/10/2022,12:10 AM,Tanish Cbit C1,<Media omitted>,AM,2022-10-09 00:10:00,1
+28,09/10/2022,12:11 AM,instigator,<Media omitted>,AM,2022-10-09 00:11:00,1
+29,09/10/2022,1:58 AM,Tanish Cbit C1,Individual contribution pettama,AM,2022-10-09 01:58:00,1
+30,09/10/2022,2:00 AM,Sree Harshith Cbit,Arey conclusion 2 times undhi enti ra ðŸ˜‚,AM,2022-10-09 02:00:00,1
+31,09/10/2022,2:00 AM,Sree Harshith Cbit,Pettalaa?,AM,2022-10-09 02:00:00,1
+32,09/10/2022,2:00 AM,Sree Harshith Cbit,Just chepthe chalu anukunts presentation appudu,AM,2022-10-09 02:00:00,1
+33,09/10/2022,6:30 AM,Chetan Cbit C1,Arey petdam ra pls,AM,2022-10-09 06:30:00,1
+34,09/10/2022,10:05 AM,Sree Harshith Cbit,Rey,AM,2022-10-09 10:05:00,1
+35,09/10/2022,10:05 AM,Sree Harshith Cbit,Edits chesaraa mari malli,AM,2022-10-09 10:05:00,1
+36,09/10/2022,10:05 AM,Sree Harshith Cbit,@918520075903 @918374552224,AM,2022-10-09 10:05:00,1
+37,09/10/2022,10:06 AM,Vishnu Satvik Cbit C1,Emo,AM,2022-10-09 10:06:00,1
+38,09/10/2022,10:07 AM,Sree Harshith Cbit,Cheyavaa vishnuðŸ¥º. Aa conclusion 2 times ochindi. Paina unnadi tisesi final doc prtu,AM,2022-10-09 10:07:00,1
+39,09/10/2022,10:07 AM,Sree Harshith Cbit,Vallu ela pettar anta kanukovali mari,AM,2022-10-09 10:07:00,1
+40,09/10/2022,10:07 AM,Vishnu Satvik Cbit C1,Tintuna vro,AM,2022-10-09 10:07:00,1
+41,09/10/2022,10:07 AM,Vishnu Satvik Cbit C1,Chesta le,AM,2022-10-09 10:07:00,1
+42,09/10/2022,10:07 AM,Sree Harshith Cbit,Kk ra,AM,2022-10-09 10:07:00,1
+43,09/10/2022,10:07 AM,Sree Harshith Cbit,Nen bayata unna,AM,2022-10-09 10:07:00,1
+44,09/10/2022,10:08 AM,Vishnu Satvik Cbit C1,Haa okk,AM,2022-10-09 10:08:00,1
+45,09/10/2022,10:10 AM,Chetan Cbit C1,âž•âž•ðŸ¥²,AM,2022-10-09 10:10:00,1
+46,09/10/2022,10:10 AM,Chetan Cbit C1,Evaru,AM,2022-10-09 10:10:00,1
+47,09/10/2022,10:11 AM,Sree Harshith Cbit,Aadarsh vallu,AM,2022-10-09 10:11:00,1
+48,09/10/2022,10:22 AM,Chetan Cbit C1,Vallu pedte pedtaru anta ppt lo,AM,2022-10-09 10:22:00,1
+49,09/10/2022,10:22 AM,Sree Harshith Cbit,Ohh,AM,2022-10-09 10:22:00,1
+50,09/10/2022,10:25 AM,Vishnu Satvik Cbit C1,Mari manam kuda alage cheskundama,AM,2022-10-09 10:25:00,1
+51,09/10/2022,10:25 AM,Gokul Cbit C1,First page ok na ppt lo ?,AM,2022-10-09 10:25:00,1
+52,09/10/2022,10:26 AM,Gokul Cbit C1,Mana names compress ayipoyinay,AM,2022-10-09 10:26:00,1
+53,09/10/2022,10:26 AM,Vishnu Satvik Cbit C1,Arey endra ala ainay,AM,2022-10-09 10:26:00,1
+54,09/10/2022,10:27 AM,Vishnu Satvik Cbit C1,Ikada bagane unay link lo,AM,2022-10-09 10:27:00,1
+55,09/10/2022,10:27 AM,Sree Harshith Cbit,Aithe link lo unnade share chedamaa,AM,2022-10-09 10:27:00,1
+56,09/10/2022,10:27 AM,Gokul Cbit C1,Laptop lo Ela vastunnayi,AM,2022-10-09 10:27:00,1
+57,09/10/2022,10:27 AM,Sree Harshith Cbit,Ha adi chudandi ra,AM,2022-10-09 10:27:00,1
+58,09/10/2022,10:27 AM,Sree Harshith Cbit,Nen kuda phone lone chustuna,AM,2022-10-09 10:27:00,1
+59,09/10/2022,10:28 AM,Vishnu Satvik Cbit C1,null,AM,2022-10-09 10:28:00,1
+60,09/10/2022,10:28 AM,Gokul Cbit C1,Ok le,AM,2022-10-09 10:28:00,1
+61,09/10/2022,10:29 AM,Vishnu Satvik Cbit C1,Arey shanmukhi Rama inka Dr kadu change cheyali ðŸ’€,AM,2022-10-09 10:29:00,1
+62,09/10/2022,10:29 AM,Sree Harshith Cbit,Kk,AM,2022-10-09 10:29:00,1
+63,09/10/2022,10:29 AM,Sree Harshith Cbit,ðŸ˜‚,AM,2022-10-09 10:29:00,1
+64,09/10/2022,10:29 AM,Vishnu Satvik Cbit C1,Smt petina,AM,2022-10-09 10:29:00,1
+65,09/10/2022,10:47 AM,Chetan Cbit C1,Andaru matladali ante ppt lone petdam,AM,2022-10-09 10:47:00,1
+66,09/10/2022,10:54 AM,instigator,<Media omitted>,AM,2022-10-09 10:54:00,1
+67,09/10/2022,10:57 AM,Vishnu Satvik Cbit C1,Arey endra idi,AM,2022-10-09 10:57:00,1
+68,09/10/2022,10:58 AM,Chetan Cbit C1,Petandi marri ðŸ¥°,AM,2022-10-09 10:58:00,1
+69,09/10/2022,10:58 AM,Vishnu Satvik Cbit C1,Nen cutting shop ki ochina ðŸ¥°,AM,2022-10-09 10:58:00,1
+70,09/10/2022,10:58 AM,Vishnu Satvik Cbit C1,Future work kuda petali ra Edo okati,AM,2022-10-09 10:58:00,1
+71,09/10/2022,11:00 AM,Chetan Cbit C1,Aha,AM,2022-10-09 11:00:00,1
+72,09/10/2022,11:04 AM,Gokul Cbit C1,Work divide chesukovali ra,AM,2022-10-09 11:04:00,1
+73,09/10/2022,11:05 AM,Gokul Cbit C1,@918520075903 cu âœ‚ï¸âœ‚ï¸ ayipoyinda,AM,2022-10-09 11:05:00,1
+74,09/10/2022,11:20 AM,Tanish Cbit C1,Em pedadam,AM,2022-10-09 11:20:00,1
+75,09/10/2022,11:21 AM,Chetan Cbit C1,..,AM,2022-10-09 11:21:00,1
+76,09/10/2022,11:21 AM,Tanish Cbit C1,Future work di view once lo pettadu oorodu,AM,2022-10-09 11:21:00,1
+77,09/10/2022,11:22 AM,Gokul Cbit C1,adhi future work kadhu ra,AM,2022-10-09 11:22:00,1
+78,09/10/2022,11:27 AM,Tanish Cbit C1,changes chesina,AM,2022-10-09 11:27:00,1
+79,09/10/2022,11:27 AM,Tanish Cbit C1,ppt ekkada,AM,2022-10-09 11:27:00,1
+80,09/10/2022,11:29 AM,Tanish Cbit C1,Cheppandra,AM,2022-10-09 11:29:00,1
+81,09/10/2022,11:30 AM,Tanish Cbit C1,<Media omitted>,AM,2022-10-09 11:30:00,1
+82,09/10/2022,11:30 AM,Tanish Cbit C1,Individual em pettali,AM,2022-10-09 11:30:00,1
+83,09/10/2022,11:39 AM,Chetan Cbit C1,Sumanth valu chepale anta lite igq,AM,2022-10-09 11:39:00,1
+84,09/10/2022,11:40 AM,Tanish Cbit C1,Okallu cheppina chaalata mottam ppt,AM,2022-10-09 11:40:00,1
+85,09/10/2022,11:40 AM,Chetan Cbit C1,Ha,AM,2022-10-09 11:40:00,1
+86,09/10/2022,11:40 AM,Tanish Cbit C1,@917893321679 take the lead,AM,2022-10-09 11:40:00,1
+87,09/10/2022,11:41 AM,Gokul Cbit C1,Ninna nuvvu em cheyyale annav cheppey mari,AM,2022-10-09 11:41:00,1
+88,09/10/2022,11:41 AM,Tanish Cbit C1,Avi first moodu slides ra lafoot,AM,2022-10-09 11:41:00,1
+89,09/10/2022,11:41 AM,Tanish Cbit C1,Golf battle aadi relax ayintav ga night,AM,2022-10-09 11:41:00,1
+90,09/10/2022,11:41 AM,Gokul Cbit C1,Mottam okkaru matrame cheptunnaru,AM,2022-10-09 11:41:00,1
+91,09/10/2022,11:42 AM,Tanish Cbit C1,Nuvve mari,AM,2022-10-09 11:42:00,1
+92,09/10/2022,11:42 AM,Gokul Cbit C1,Inka aapara,AM,2022-10-09 11:42:00,1
+93,09/10/2022,11:42 AM,Gokul Cbit C1,@918520075903 mottam cheppu ra,AM,2022-10-09 11:42:00,1
+94,09/10/2022,11:42 AM,Tanish Cbit C1,Nuvve kelikavâ˜ºï¸,AM,2022-10-09 11:42:00,1
+95,09/10/2022,11:42 AM,Gokul Cbit C1,Nikey koncham idea undhi,AM,2022-10-09 11:42:00,1
+96,09/10/2022,11:42 AM,Vishnu Satvik Cbit C1,Ipude aindi,AM,2022-10-09 11:42:00,1
+97,09/10/2022,11:42 AM,Tanish Cbit C1,Ewww,AM,2022-10-09 11:42:00,1
+98,09/10/2022,11:43 AM,Tanish Cbit C1,Em em vaadam deentlo react avi cheppu individual contribution pedta,AM,2022-10-09 11:43:00,1
+99,09/10/2022,11:43 AM,Vishnu Satvik Cbit C1,React a,AM,2022-10-09 11:43:00,1
+100,09/10/2022,11:43 AM,Tanish Cbit C1,Ante individual contribution lo en pettali,AM,2022-10-09 11:43:00,1
+101,09/10/2022,11:43 AM,Tanish Cbit C1,Leda lite teeskundama,AM,2022-10-09 11:43:00,1
+102,09/10/2022,11:44 AM,Tanish Cbit C1,@Sumanth vallu pettale ata ayyindi valladi,AM,2022-10-09 11:44:00,1
+103,09/10/2022,11:44 AM,Vishnu Satvik Cbit C1,Link,AM,2022-10-09 11:44:00,1
+104,09/10/2022,11:50 AM,Tanish Cbit C1,Blue colour teesesa text nundi,AM,2022-10-09 11:50:00,1
+105,09/10/2022,11:50 AM,Tanish Cbit C1,Adi highlighter on lo undi,AM,2022-10-09 11:50:00,1
+106,09/10/2022,11:57 AM,Tanish Cbit C1,Arey,AM,2022-10-09 11:57:00,1
+107,09/10/2022,11:58 AM,Tanish Cbit C1,Slide pedadam ra,AM,2022-10-09 11:58:00,1
+108,09/10/2022,11:58 AM,Tanish Cbit C1,Individual di,AM,2022-10-09 11:58:00,1
+109,09/10/2022,11:58 AM,Tanish Cbit C1,Malli adigite kastham emo,AM,2022-10-09 11:58:00,1
+110,09/10/2022,11:58 AM,Gokul Cbit C1,Individual work em cheam ani ?,AM,2022-10-09 11:58:00,1
+111,09/10/2022,11:58 AM,Gokul Cbit C1,*chesam,AM,2022-10-09 11:58:00,1
+112,09/10/2022,11:58 AM,Gokul Cbit C1,Anthena,AM,2022-10-09 11:58:00,1
+113,09/10/2022,11:59 AM,Tanish Cbit C1,Evadu respond kaatle ga lite emo le,AM,2022-10-09 11:59:00,1
+114,09/10/2022,12:00 PM,Gokul Cbit C1,Cheddam ante cheppu nenu kuda vastha cheseddam,PM,2022-10-09 12:00:00,1
+115,09/10/2022,12:00 PM,Gokul Cbit C1,Malli edhaina antaru,PM,2022-10-09 12:00:00,1
+116,09/10/2022,12:00 PM,Tanish Cbit C1,Kaani em pettalo telidu ga,PM,2022-10-09 12:00:00,1
+117,09/10/2022,12:01 PM,Gokul Cbit C1,@918520075903 hðŸ›ðŸ›ðŸ› nundi ra ra,PM,2022-10-09 12:01:00,1
+118,09/10/2022,12:01 PM,Gokul Cbit C1,Shower bath emo  ðŸš¿,PM,2022-10-09 12:01:00,1
+119,09/10/2022,12:01 PM,Tanish Cbit C1,This message was deleted,PM,2022-10-09 12:01:00,1
+120,09/10/2022,12:01 PM,Tanish Cbit C1,ðŸ«¡ðŸ«¡,PM,2022-10-09 12:01:00,1
+121,09/10/2022,12:09 PM,Vishnu Satvik Cbit C1,Hi,PM,2022-10-09 12:09:00,1
+122,09/10/2022,12:09 PM,Vishnu Satvik Cbit C1,â˜ºï¸,PM,2022-10-09 12:09:00,1
+123,09/10/2022,12:09 PM,Tanish Cbit C1,Oreyy evvadu respond kaatlesu,PM,2022-10-09 12:09:00,1
+124,09/10/2022,12:10 PM,Tanish Cbit C1,Emi adigina @918520075903 antunnaru,PM,2022-10-09 12:10:00,1
+125,09/10/2022,12:10 PM,Gokul Cbit C1,ðŸ”¥ðŸ”¥,PM,2022-10-09 12:10:00,1
+126,09/10/2022,12:10 PM,Tanish Cbit C1,Choosko mari,PM,2022-10-09 12:10:00,1
+127,09/10/2022,12:10 PM,Tanish Cbit C1,â˜ºï¸â˜ºï¸,PM,2022-10-09 12:10:00,1
+128,09/10/2022,12:10 PM,Vishnu Satvik Cbit C1,Naakem telvadu,PM,2022-10-09 12:10:00,1
+129,09/10/2022,12:10 PM,Tanish Cbit C1,Sare individual contribution ata pedadama no aah,PM,2022-10-09 12:10:00,1
+130,09/10/2022,12:10 PM,Gokul Cbit C1,Nuvvu teliyadhu annav inkem chestam mari,PM,2022-10-09 12:10:00,1
+131,09/10/2022,12:11 PM,Tanish Cbit C1,This message was deleted,PM,2022-10-09 12:11:00,1
+132,09/10/2022,12:11 PM,Tanish Cbit C1,.,PM,2022-10-09 12:11:00,1
+133,09/10/2022,12:12 PM,Vishnu Satvik Cbit C1,Crct e crct e,PM,2022-10-09 12:12:00,1
+134,09/10/2022,12:13 PM,Gokul Cbit C1,Sare em cheddam.cheppu,PM,2022-10-09 12:13:00,1
+135,09/10/2022,12:13 PM,Gokul Cbit C1,@918374552224 anna aithe pure ðŸ¦Š,PM,2022-10-09 12:13:00,1
+136,09/10/2022,12:15 PM,Vishnu Satvik Cbit C1,Lunch,PM,2022-10-09 12:15:00,1
+137,09/10/2022,12:15 PM,Tanish Cbit C1,<Media omitted>,PM,2022-10-09 12:15:00,1
+138,09/10/2022,12:19 PM,Vishnu Satvik Cbit C1,Arey addy valani adgandi ra em ankunaru individual contributon,PM,2022-10-09 12:19:00,1
+139,09/10/2022,12:19 PM,Vishnu Satvik Cbit C1,Val mana mundu chepi manam chepakapothe mungutadi,PM,2022-10-09 12:19:00,1
+140,09/10/2022,12:20 PM,Gokul Cbit C1,Manam kadhu nenu anali,PM,2022-10-09 12:20:00,1
+141,09/10/2022,12:20 PM,Tanish Cbit C1,em pettale,PM,2022-10-09 12:20:00,1
+142,09/10/2022,12:20 PM,Tanish Cbit C1,implementation,PM,2022-10-09 12:20:00,1
+143,09/10/2022,12:20 PM,Tanish Cbit C1,plan of mehtofology,PM,2022-10-09 12:20:00,1
+144,09/10/2022,12:20 PM,Tanish Cbit C1,ivi pettam,PM,2022-10-09 12:20:00,1
+145,09/10/2022,12:21 PM,Vishnu Satvik Cbit C1,Nuve chepesava sare,PM,2022-10-09 12:21:00,1
+146,09/10/2022,12:33 PM,Tanish Cbit C1,Levandi,PM,2022-10-09 12:33:00,1
+147,09/10/2022,12:33 PM,Tanish Cbit C1,@918367721870 @917013036431 @917893321679 @918520075903 @917337072337 @,PM,2022-10-09 12:33:00,1
+148,09/10/2022,12:33 PM,Tanish Cbit C1,@918367721870 @917013036431 @917893321679 @918520075903 @917337072337 @,PM,2022-10-09 12:33:00,1
+149,09/10/2022,12:34 PM,Tanish Cbit C1,@918367721870 @917013036431 @917893321679 @918520075903 @917337072337 @,PM,2022-10-09 12:34:00,1
+150,09/10/2022,12:34 PM,Vishnu Satvik Cbit C1,Join kavala,PM,2022-10-09 12:34:00,1
+151,09/10/2022,12:34 PM,Tanish Cbit C1,12:45,PM,2022-10-09 12:34:00,1
+152,09/10/2022,12:34 PM,Tanish Cbit C1,Ki,PM,2022-10-09 12:34:00,1
+153,09/10/2022,12:34 PM,Tanish Cbit C1,Ata,PM,2022-10-09 12:34:00,1
+154,09/10/2022,12:34 PM,Sree Harshith Cbit,Ohh,PM,2022-10-09 12:34:00,1
+155,09/10/2022,12:35 PM,Sree Harshith Cbit,Arey evar evaru evi chepali em fix kale ra,PM,2022-10-09 12:35:00,1
+156,09/10/2022,12:35 PM,Sree Harshith Cbit,Endi mari,PM,2022-10-09 12:35:00,1
+157,09/10/2022,12:35 PM,Chetan Cbit C1,Nen join kalenu raðŸ¥²,PM,2022-10-09 12:35:00,1
+158,09/10/2022,12:35 PM,Tanish Cbit C1,Minguta,PM,2022-10-09 12:35:00,1
+159,09/10/2022,12:35 PM,Tanish Cbit C1,Okallu cheppina chaalata,PM,2022-10-09 12:35:00,1
+160,09/10/2022,12:35 PM,Chetan Cbit C1,Traveling lo una ra net radhu antha,PM,2022-10-09 12:35:00,1
+161,09/10/2022,12:36 PM,Vishnu Satvik Cbit C1,Em kad nen jpmc meeting alage join aina,PM,2022-10-09 12:36:00,1
+162,09/10/2022,12:36 PM,Vishnu Satvik Cbit C1,Ka,PM,2022-10-09 12:36:00,1
+163,09/10/2022,12:41 PM,Vishnu Satvik Cbit C1,@917893321679 react,PM,2022-10-09 12:41:00,1
+164,09/10/2022,12:41 PM,Tanish Cbit C1,Em ledu,PM,2022-10-09 12:41:00,1
+165,09/10/2022,12:41 PM,Tanish Cbit C1,Nuvve cheppeyi,PM,2022-10-09 12:41:00,1
+166,09/10/2022,12:41 PM,Tanish Cbit C1,Pls ee saariki,PM,2022-10-09 12:41:00,1
+167,09/10/2022,12:41 PM,Tanish Cbit C1,Next time memu cheptam,PM,2022-10-09 12:41:00,1
+168,09/10/2022,12:41 PM,Vishnu Satvik Cbit C1,arey em rad ra naku,PM,2022-10-09 12:41:00,1
+169,09/10/2022,12:42 PM,Tanish Cbit C1,Raavatam enduku lendi,PM,2022-10-09 12:42:00,1
+170,09/10/2022,12:42 PM,Sree Harshith Cbit,Arey atleast oka 3 members chepdam ra,PM,2022-10-09 12:42:00,1
+171,09/10/2022,12:42 PM,Sree Harshith Cbit,Okkade ante kastam kada,PM,2022-10-09 12:42:00,1
+172,09/10/2022,12:45 PM,Vishnu Satvik Cbit C1,ðŸ¦Š gang ela ankunaro,PM,2022-10-09 12:45:00,1
+173,09/10/2022,12:48 PM,Tanish Cbit C1,link pettale,PM,2022-10-09 12:48:00,1
+174,09/10/2022,12:48 PM,Tanish Cbit C1,ga meet di,PM,2022-10-09 12:48:00,1
+175,09/10/2022,12:48 PM,Gokul Cbit C1,Arey,PM,2022-10-09 12:48:00,1
+176,09/10/2022,12:48 PM,Vishnu Satvik Cbit C1,Arey,PM,2022-10-09 12:48:00,1
+177,09/10/2022,12:48 PM,Vishnu Satvik Cbit C1,Individual petadam raa,PM,2022-10-09 12:48:00,1
+178,09/10/2022,12:48 PM,Vishnu Satvik Cbit C1,2 members each,PM,2022-10-09 12:48:00,1
+179,09/10/2022,12:48 PM,Gokul Cbit C1,review meeting of panace.ai,PM,2022-10-09 12:48:00,1
+180,09/10/2022,12:48 PM,Vishnu Satvik Cbit C1,2 members emo data analysis,PM,2022-10-09 12:48:00,1
+181,09/10/2022,12:48 PM,Vishnu Satvik Cbit C1,2 members sentimental analysis,PM,2022-10-09 12:48:00,1
+182,09/10/2022,12:48 PM,Vishnu Satvik Cbit C1,2 members hosting and frontend,PM,2022-10-09 12:48:00,1
+183,09/10/2022,12:48 PM,Tanish Cbit C1,ok,PM,2022-10-09 12:48:00,1
+184,09/10/2022,12:49 PM,Sree Harshith Cbit,Ok,PM,2022-10-09 12:49:00,1
+185,09/10/2022,12:49 PM,Gokul Cbit C1,Ok,PM,2022-10-09 12:49:00,1
+186,09/10/2022,12:49 PM,Vishnu Satvik Cbit C1,Frontend and integration ani petdam,PM,2022-10-09 12:49:00,1
+187,09/10/2022,12:49 PM,Sree Harshith Cbit,Names kuda cheppu evaru edi,PM,2022-10-09 12:49:00,1
+188,09/10/2022,12:50 PM,Vishnu Satvik Cbit C1,Emo,PM,2022-10-09 12:50:00,1
+189,09/10/2022,12:51 PM,Vishnu Satvik Cbit C1,Yessssss python and flask ata raa,PM,2022-10-09 12:51:00,1
+190,09/10/2022,12:51 PM,Vishnu Satvik Cbit C1,Yt la ade use chesad,PM,2022-10-09 12:51:00,1
+191,09/10/2022,12:53 PM,Tanish Cbit C1,Entra vellu,PM,2022-10-09 12:53:00,1
+192,09/10/2022,12:53 PM,Tanish Cbit C1,Diseases entra,PM,2022-10-09 12:53:00,1
+193,09/10/2022,12:54 PM,Tanish Cbit C1,Vammo,PM,2022-10-09 12:54:00,1
+194,09/10/2022,12:55 PM,Tanish Cbit C1,Ml algorithms teesedama,PM,2022-10-09 12:55:00,1
+195,09/10/2022,12:56 PM,Vishnu Satvik Cbit C1,arey koddiga codde undi ga,PM,2022-10-09 12:56:00,1
+196,09/10/2022,12:56 PM,Vishnu Satvik Cbit C1,adi chuppidam,PM,2022-10-09 12:56:00,1
+197,09/10/2022,12:56 PM,Tanish Cbit C1,Ok,PM,2022-10-09 12:56:00,1
+198,09/10/2022,12:56 PM,Gokul Cbit C1,ok,PM,2022-10-09 12:56:00,1
+199,09/10/2022,12:56 PM,Gokul Cbit C1,@918520075903  em osthe adhi mottam present cheseyi,PM,2022-10-09 12:56:00,1
+200,09/10/2022,12:59 PM,Vishnu Satvik Cbit C1,ehe,PM,2022-10-09 12:59:00,1
+201,09/10/2022,12:59 PM,Vishnu Satvik Cbit C1,mottam odu,PM,2022-10-09 12:59:00,1
+202,09/10/2022,12:59 PM,Vishnu Satvik Cbit C1,konchem petina antha tesesi,PM,2022-10-09 12:59:00,1
+203,09/10/2022,1:00 PM,Vishnu Satvik Cbit C1,oka 6,PM,2022-10-09 13:00:00,1
+204,09/10/2022,1:00 PM,Tanish Cbit C1,Ok,PM,2022-10-09 13:00:00,1
+205,09/10/2022,1:00 PM,Tanish Cbit C1,Final ppt,PM,2022-10-09 13:00:00,1
+206,09/10/2022,1:00 PM,Tanish Cbit C1,Teeskunnava,PM,2022-10-09 13:00:00,1
+207,09/10/2022,1:00 PM,Vishnu Satvik Cbit C1,Link nunche chedam,PM,2022-10-09 13:00:00,1
+208,09/10/2022,1:00 PM,Tanish Cbit C1,Link lo chaala unnayi slides,PM,2022-10-09 13:00:00,1
+209,09/10/2022,1:00 PM,Tanish Cbit C1,Algorithm teesesa,PM,2022-10-09 13:00:00,1
+210,09/10/2022,1:00 PM,Vishnu Satvik Cbit C1,Ehe petu mari final,PM,2022-10-09 13:00:00,1
+211,09/10/2022,1:00 PM,Vishnu Satvik Cbit C1,Nak,PM,2022-10-09 13:00:00,1
+212,09/10/2022,1:01 PM,Tanish Cbit C1,Only algorithm teesesa,PM,2022-10-09 13:01:00,1
+213,09/10/2022,1:02 PM,Vishnu Satvik Cbit C1,Link nunche chesta,PM,2022-10-09 13:02:00,1
+214,09/10/2022,1:02 PM,Vishnu Satvik Cbit C1,Andula emaina extra unte tesei,PM,2022-10-09 13:02:00,1
+215,09/10/2022,1:02 PM,Vishnu Satvik Cbit C1,Ela chedam,PM,2022-10-09 13:02:00,1
+216,09/10/2022,1:02 PM,Tanish Cbit C1,<Media omitted>,PM,2022-10-09 13:02:00,1
+217,09/10/2022,1:02 PM,Vishnu Satvik Cbit C1,Tanish intro chep ra,PM,2022-10-09 13:02:00,1
+218,09/10/2022,1:02 PM,Tanish Cbit C1,Ehe,PM,2022-10-09 13:02:00,1
+219,09/10/2022,1:02 PM,Tanish Cbit C1,Dobbeyi,PM,2022-10-09 13:02:00,1
+220,09/10/2022,1:02 PM,Tanish Cbit C1,@917893321679,PM,2022-10-09 13:02:00,1
+221,09/10/2022,1:03 PM,Tanish Cbit C1,@917893321679,PM,2022-10-09 13:03:00,1
+222,09/10/2022,1:03 PM,Vishnu Satvik Cbit C1,haa,PM,2022-10-09 13:03:00,1
+223,09/10/2022,1:03 PM,Tanish Cbit C1,@917893321679,PM,2022-10-09 13:03:00,1
+224,09/10/2022,1:03 PM,Tanish Cbit C1,@917893321679,PM,2022-10-09 13:03:00,1
+225,09/10/2022,1:03 PM,Tanish Cbit C1,Ee okkasaari ki cheppeyi,PM,2022-10-09 13:03:00,1
+226,09/10/2022,1:03 PM,Tanish Cbit C1,Next time mottam meme cheptam,PM,2022-10-09 13:03:00,1
+227,09/10/2022,1:04 PM,Vishnu Satvik Cbit C1,Arey chepalen ra,PM,2022-10-09 13:04:00,1
+228,09/10/2022,1:04 PM,Vishnu Satvik Cbit C1,Mottam mogga,PM,2022-10-09 13:04:00,1
+229,09/10/2022,1:04 PM,Vishnu Satvik Cbit C1,Pls mingabedte kastam,PM,2022-10-09 13:04:00,1
+230,09/10/2022,1:04 PM,Tanish Cbit C1,Slides,PM,2022-10-09 13:04:00,1
+231,09/10/2022,1:04 PM,Sree Harshith Cbit started a cal,Sree Harshith Cbit started a call,PM,2022-10-09 13:04:00,1
+232,09/10/2022,1:04 PM,Tanish Cbit C1,Cheppu ploxx,PM,2022-10-09 13:04:00,1
+233,09/10/2022,1:05 PM,Sree Harshith Cbit,Arey,PM,2022-10-09 13:05:00,1
+234,09/10/2022,1:05 PM,Sree Harshith Cbit,Okasari call chei vishnu,PM,2022-10-09 13:05:00,1
+235,09/10/2022,1:05 PM,Tanish Cbit C1,Start ayyindi,PM,2022-10-09 13:05:00,1
+236,09/10/2022,1:05 PM,Tanish Cbit C1,Meet,PM,2022-10-09 13:05:00,1
+237,09/10/2022,1:05 PM,Gokul Cbit C1,He is presenting,PM,2022-10-09 13:05:00,1
+238,09/10/2022,1:05 PM,Sree Harshith Cbit,Avnaa,PM,2022-10-09 13:05:00,1
+239,09/10/2022,1:06 PM,Sree Harshith Cbit,Arey inthasepu bayata unna ippude intiki ochanu,PM,2022-10-09 13:06:00,1
+240,09/10/2022,1:06 PM,Sree Harshith Cbit,Sorry ra ðŸ˜­,PM,2022-10-09 13:06:00,1
+241,09/10/2022,1:06 PM,Sree Harshith Cbit,@918520075903 nannu koncham cheppamante chepthanu ra,PM,2022-10-09 13:06:00,1
+242,09/10/2022,1:06 PM,Tanish Cbit C1,Modda next week mottam maname cheppali,PM,2022-10-09 13:06:00,1
+243,09/10/2022,1:06 PM,Sree Harshith Cbit,Ha pakka ra,PM,2022-10-09 13:06:00,1
+244,09/10/2022,1:09 PM,Vishnu Satvik Cbit C1,Moda galara,PM,2022-10-09 13:09:00,1
+245,09/10/2022,1:09 PM,Tanish Cbit C1,Thop,PM,2022-10-09 13:09:00,1
+246,09/10/2022,1:09 PM,Tanish Cbit C1,Cheppinav ra,PM,2022-10-09 13:09:00,1
+247,09/10/2022,1:10 PM,Gokul Cbit C1,ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥,PM,2022-10-09 13:10:00,1
+248,09/10/2022,1:10 PM,Tanish Cbit C1,Really sorry,PM,2022-10-09 13:10:00,1
+249,09/10/2022,1:10 PM,Chetan Cbit C1,Haaa,PM,2022-10-09 13:10:00,1
+250,09/10/2022,1:10 PM,Sree Harshith Cbit,Sorry vishnu ðŸ˜­,PM,2022-10-09 13:10:00,1
+251,09/10/2022,1:10 PM,Sree Harshith Cbit,Thop cheppavðŸ™‡â€â™‚ï¸ðŸ™‡â€â™‚ï¸,PM,2022-10-09 13:10:00,1
+252,09/10/2022,1:10 PM,Tanish Cbit C1,Sorry sorry next time nuvvu paduko,PM,2022-10-09 13:10:00,1
+253,09/10/2022,1:11 PM,Tanish Cbit C1,Memu chooskuntam,PM,2022-10-09 13:11:00,1
+254,09/10/2022,1:11 PM,Vishnu Satvik Cbit C1,Sare le,PM,2022-10-09 13:11:00,1
+255,09/10/2022,1:11 PM,Chetan Cbit C1,<Media omitted>,PM,2022-10-09 13:11:00,1
+256,09/10/2022,1:11 PM,Tanish Cbit C1,Mogga night ey plan cheskunte ayipoyedi,PM,2022-10-09 13:11:00,1
+257,09/10/2022,1:11 PM,Tanish Cbit C1,Night emo morning anukunnam bokka,PM,2022-10-09 13:11:00,1
+258,09/10/2022,1:11 PM,Tanish Cbit C1,Naaku uccha paddadi cheppalante,PM,2022-10-09 13:11:00,1
+259,09/10/2022,1:11 PM,Sree Harshith Cbit,HaaðŸ˜­. Night maa friend osthe velipoya meet on petti,PM,2022-10-09 13:11:00,1
+260,09/10/2022,1:11 PM,Sree Harshith Cbit,Ohh,PM,2022-10-09 13:11:00,1
+261,22/10/2022,12:19 AM,Chetan Cbit C1,Ee group kuda undhiðŸ™‚,AM,2022-10-22 00:19:00,1
+262,22/10/2022,12:20 AM,Sree Harshith Cbit,Ohhhh,AM,2022-10-22 00:20:00,1
+263,22/10/2022,12:20 AM,Sree Harshith Cbit,"Arey avnu kada, dantlo vadu unnadðŸ˜‚",AM,2022-10-22 00:20:00,1
+264,22/10/2022,12:21 AM,Chetan Cbit C1,Tisesa andarni,AM,2022-10-22 00:21:00,1
+265,22/10/2022,12:21 AM,Sree Harshith Cbit,<Media omitted>,AM,2022-10-22 00:21:00,1
+266,22/10/2022,12:21 AM,Sree Harshith Cbit,<Media omitted>,AM,2022-10-22 00:21:00,1
+267,22/10/2022,12:21 AM,Sree Harshith Cbit,<Media omitted>,AM,2022-10-22 00:21:00,1
+268,22/10/2022,12:21 AM,Sree Harshith Cbit,<Media omitted>,AM,2022-10-22 00:21:00,1
+269,22/10/2022,12:21 AM,Sree Harshith Cbit,<Media omitted>,AM,2022-10-22 00:21:00,1
+270,22/10/2022,12:21 AM,Sree Harshith Cbit,Ha kk,AM,2022-10-22 00:21:00,1
+271,22/10/2022,7:23 AM,Vishnu Satvik Cbit C1,Arey,AM,2022-10-22 07:23:00,1
+272,22/10/2022,7:23 AM,Vishnu Satvik Cbit C1,Present cheyala,AM,2022-10-22 07:23:00,1
+273,22/10/2022,7:23 AM,Vishnu Satvik Cbit C1,Chepandi,AM,2022-10-22 07:23:00,1
+274,22/10/2022,7:24 AM,Tanish Cbit C1,Entra,AM,2022-10-22 07:24:00,1
+275,22/10/2022,7:24 AM,Tanish Cbit C1,Cheyyali ga mari,AM,2022-10-22 07:24:00,1
+276,22/10/2022,7:25 AM,Vishnu Satvik Cbit C1,Ela cheptaru ra mari,AM,2022-10-22 07:25:00,1
+277,22/10/2022,7:26 AM,Tanish Cbit C1,We have completed sentiment and exploratory data analysis,AM,2022-10-22 07:26:00,1
+278,22/10/2022,7:26 AM,Tanish Cbit C1,We have to deploy these modules into a dashboard,AM,2022-10-22 07:26:00,1
+279,22/10/2022,7:27 AM,Tanish Cbit C1,Adigite you told to take it from others so we are waiting for others (for the dashboard login part),AM,2022-10-22 07:27:00,1
+280,22/10/2022,7:28 AM,Sree Harshith Cbit,"Arey lekunte oka 5 mins meet pettana, maak okasari chepandi em explain cheyali enti ani",AM,2022-10-22 07:28:00,1
+281,22/10/2022,7:28 AM,Sree Harshith Cbit,Villu lesaraa,AM,2022-10-22 07:28:00,1
+282,22/10/2022,7:28 AM,Sree Harshith Cbit,@917013036431 @917337072337 @918367721870,AM,2022-10-22 07:28:00,1
+283,22/10/2022,7:28 AM,Sree Harshith Cbit,Meeru ipudu clg gng aa,AM,2022-10-22 07:28:00,1
+284,22/10/2022,7:29 AM,Sree Harshith Cbit,Tanish vishnu,AM,2022-10-22 07:29:00,1
+285,22/10/2022,7:31 AM,Chetan Cbit C1,Ha pettu meet,AM,2022-10-22 07:31:00,1
+286,22/10/2022,7:31 AM,Tanish Cbit C1,Nenu inka bus ekkale,AM,2022-10-22 07:31:00,1
+287,22/10/2022,7:31 AM,Chetan Cbit C1,Ekinanka cheppu,AM,2022-10-22 07:31:00,1
+288,22/10/2022,7:39 AM,Sree Harshith Cbit,Ohh,AM,2022-10-22 07:39:00,1
+289,22/10/2022,7:40 AM,Tanish Cbit C1,7:50 ki pettandi,AM,2022-10-22 07:40:00,1
+290,22/10/2022,7:48 AM,Tanish Cbit C1,Ok,AM,2022-10-22 07:48:00,1
+291,22/10/2022,7:48 AM,Tanish Cbit C1,@918520075903,AM,2022-10-22 07:48:00,1
+292,22/10/2022,7:48 AM,Tanish Cbit C1,@917893321679,AM,2022-10-22 07:48:00,1
+293,22/10/2022,7:48 AM,Tanish Cbit C1,@917013036431,AM,2022-10-22 07:48:00,1
+294,22/10/2022,7:49 AM,Vishnu Satvik Cbit C1,Ok,AM,2022-10-22 07:49:00,1
+295,22/10/2022,7:52 AM,Chetan Cbit C1,Ok,AM,2022-10-22 07:52:00,1
+296,22/10/2022,7:57 AM,Chetan Cbit C1,https://meet.google.com/rdw-xzax-ftm,AM,2022-10-22 07:57:00,1
+297,22/10/2022,7:58 AM,Chetan Cbit C1,@918367721870 @917893321679 @917337072337 @918520075903,AM,2022-10-22 07:58:00,1
+298,22/10/2022,8:08 AM,Tanish Cbit C1,<Media omitted>,AM,2022-10-22 08:08:00,1
+299,22/10/2022,8:08 AM,Tanish Cbit C1,<Media omitted>,AM,2022-10-22 08:08:00,1
+300,22/10/2022,8:14 AM,Tanish Cbit C1,<Media omitted>,AM,2022-10-22 08:14:00,1
+301,22/10/2022,8:14 AM,Tanish Cbit C1,<Media omitted>,AM,2022-10-22 08:14:00,1
+302,22/10/2022,8:15 AM,Sree Harshith Cbit,Ok cmng,AM,2022-10-22 08:15:00,1
+303,22/10/2022,8:24 AM,Sree Harshith Cbit,Kaggle,AM,2022-10-22 08:24:00,1
+304,22/10/2022,8:34 AM,Tanish Cbit C1,<Media omitted>,AM,2022-10-22 08:34:00,1
+305,22/10/2022,8:37 AM,Tanish Cbit C1,https://www.kaggle.com/datasets/sarthaknautiyal/whatsappsample,AM,2022-10-22 08:37:00,1
+306,22/10/2022,8:39 AM,Vishnu Satvik Cbit C1,https://data-flair.training/blogs/python-sentiment-analysis/,AM,2022-10-22 08:39:00,1
+307,22/10/2022,8:39 AM,Vishnu Satvik Cbit C1,Ee roju idi okasari chudandi,AM,2022-10-22 08:39:00,1
+308,22/10/2022,8:39 AM,Vishnu Satvik Cbit C1,Sentimental analysis di thop undi,AM,2022-10-22 08:39:00,1
+309,22/10/2022,8:40 AM,Vishnu Satvik Cbit C1,Ipudu lite le ra,AM,2022-10-22 08:40:00,1
+310,22/10/2022,8:40 AM,Sree Harshith Cbit,Ok ra,AM,2022-10-22 08:40:00,1
+311,22/10/2022,8:41 AM,Tanish Cbit C1,Intiki vacchaka cheddam ra andaru kalisi,AM,2022-10-22 08:41:00,1
+312,22/10/2022,8:41 AM,Tanish Cbit C1,Ivaaltiki ippudu unnadi choopincheyandi,AM,2022-10-22 08:41:00,1
+313,22/10/2022,8:44 AM,Sree Harshith Cbit,Ha Sare ra,AM,2022-10-22 08:44:00,1
+314,22/10/2022,8:45 AM,Sree Harshith Cbit,"Masth undhi, ðŸ‘Œ",AM,2022-10-22 08:45:00,1
+315,22/10/2022,8:45 AM,Sree Harshith Cbit,Ha Sare ra,AM,2022-10-22 08:45:00,1
+316,22/10/2022,10:06 AM,Tanish Cbit C1,Panace.ai Projects Discussion,AM,2022-10-22 10:06:00,1
+317,22/10/2022,10:09 AM,Sree Harshith Cbit,Ha,AM,2022-10-22 10:09:00,1
+318,22/10/2022,10:09 AM,Sree Harshith Cbit,10:30 anta,AM,2022-10-22 10:09:00,1
+319,22/10/2022,10:34 AM,Tanish Cbit C1,avutunnara,AM,2022-10-22 10:34:00,1
+320,22/10/2022,10:34 AM,Chetan Cbit C1,Ha,AM,2022-10-22 10:34:00,1
+321,22/10/2022,10:38 AM,Sree Harshith Cbit,Ha ra,AM,2022-10-22 10:38:00,1
+322,22/10/2022,10:38 AM,Chetan Cbit C1,Miru,AM,2022-10-22 10:38:00,1
+323,22/10/2022,10:38 AM,Chetan Cbit C1,@918374552224 @918520075903,AM,2022-10-22 10:38:00,1
+324,22/10/2022,10:39 AM,Sree Harshith Cbit,Arey manam team 4 kada,AM,2022-10-22 10:39:00,1
+325,22/10/2022,10:39 AM,Chetan Cbit C1,Ha,AM,2022-10-22 10:39:00,1
+326,22/10/2022,10:42 AM,Sree Harshith Cbit,Background study em chesam anedi chepali anta next major presentation lo,AM,2022-10-22 10:42:00,1
+327,22/10/2022,10:43 AM,Chetan Cbit C1,panace valu chustaru anta next week,AM,2022-10-22 10:43:00,1
+328,22/10/2022,10:44 AM,Sree Harshith Cbit,Haa,AM,2022-10-22 10:44:00,1
+329,22/10/2022,10:48 AM,Sree Harshith Cbit,Em presentation ledu le just progress undaa leda ani asking anthe,AM,2022-10-22 10:48:00,1
+330,22/10/2022,10:48 AM,Sree Harshith Cbit,"Ayipoyindi, manalni adigesindi",AM,2022-10-22 10:48:00,1
+331,22/10/2022,10:49 AM,Chetan Cbit C1,HaðŸ˜‚,AM,2022-10-22 10:49:00,1
+332,22/10/2022,10:49 AM,Sree Harshith Cbit,Arey @918520075903 @918374552224 just meet join ayyi mute peteskondi,AM,2022-10-22 10:49:00,1
+333,22/10/2022,10:49 AM,Sree Harshith Cbit,Edo attendance tiskunra annadi,AM,2022-10-22 10:49:00,1
+334,22/10/2022,10:51 AM,Gokul Cbit C1,Attendance time lo MSG cheyyandi ra,AM,2022-10-22 10:51:00,1
+335,22/10/2022,10:51 AM,Gokul Cbit C1,Ayine Ela tisukuntadhi,AM,2022-10-22 10:51:00,1
+336,22/10/2022,10:51 AM,Chetan Cbit C1,Team wise tiskuntundhi kadha ipudu,AM,2022-10-22 10:51:00,1
+337,22/10/2022,10:51 AM,Sree Harshith Cbit,"Emo edo 60 members unnaru, I will consider only theirs annadi ento",AM,2022-10-22 10:51:00,1
+338,22/10/2022,10:52 AM,Sree Harshith Cbit,Ha but team lo andar present or not chudatledu le,AM,2022-10-22 10:52:00,1
+339,22/10/2022,10:52 AM,Chetan Cbit C1,Ipudu sat varaku motham cheseyala,AM,2022-10-22 10:52:00,1
+340,22/10/2022,10:52 AM,Sree Harshith Cbit,Philip matladindu ðŸŒšðŸŒ,AM,2022-10-22 10:52:00,1
+341,22/10/2022,10:52 AM,Sree Harshith Cbit,Emo ra,AM,2022-10-22 10:52:00,1
+342,22/10/2022,10:53 AM,Vishnu Satvik Cbit C1,Deniki,AM,2022-10-22 10:53:00,1
+343,22/10/2022,10:53 AM,Vishnu Satvik Cbit C1,Andaru Ela chestunaru raa,AM,2022-10-22 10:53:00,1
+344,22/10/2022,10:53 AM,Sree Harshith Cbit,Valla team tarupuna evaro okalu we are in progress ani chepali,AM,2022-10-22 10:53:00,1
+345,22/10/2022,10:53 AM,Chetan Cbit C1,Evar present cheyatle,AM,2022-10-22 10:53:00,1
+346,22/10/2022,10:53 AM,Sree Harshith Cbit,Anthe done,AM,2022-10-22 10:53:00,1
+347,22/10/2022,10:54 AM,Vishnu Satvik Cbit C1,Anthey na,AM,2022-10-22 10:54:00,1
+348,22/10/2022,10:54 AM,Chetan Cbit C1,Ha,AM,2022-10-22 10:54:00,1
+349,22/10/2022,10:55 AM,Sree Harshith Cbit,Kad kad,AM,2022-10-22 10:55:00,1
+350,22/10/2022,10:55 AM,Sree Harshith Cbit,Chupettali edi varak aiyte adi varak,AM,2022-10-22 10:55:00,1
+351,22/10/2022,10:55 AM,Sree Harshith Cbit,Kani manchiga undali,AM,2022-10-22 10:55:00,1
+352,22/10/2022,10:55 AM,Sree Harshith Cbit,Saketh antundu,AM,2022-10-22 10:55:00,1
+353,22/10/2022,10:55 AM,Sree Harshith Cbit,Avasaram led le,AM,2022-10-22 10:55:00,1
+354,22/10/2022,10:55 AM,Chetan Cbit C1,Ee sat varaka,AM,2022-10-22 10:55:00,1
+355,22/10/2022,10:55 AM,Sree Harshith Cbit,Ha,AM,2022-10-22 10:55:00,1
+356,22/10/2022,10:57 AM,Sree Harshith Cbit,Aipaye,AM,2022-10-22 10:57:00,1
+357,22/10/2022,11:16 AM,Chetan Cbit C1,Inka undha meet,AM,2022-10-22 11:16:00,1
+358,22/10/2022,11:16 AM,Chetan Cbit C1,@918367721870 @917893321679 @917337072337,AM,2022-10-22 11:16:00,1
+359,22/10/2022,11:19 AM,Sree Harshith Cbit,Ayipoyindi gara,AM,2022-10-22 11:19:00,1
+360,22/10/2022,11:20 AM,Chetan Cbit C1,Inka respond avutunaru anni adiga,AM,2022-10-22 11:20:00,1
+361,22/10/2022,11:21 AM,Sree Harshith Cbit,Maybe msg chesar emo mam ki,AM,2022-10-22 11:21:00,1
+362,25/10/2022,9:29 PM,Sree Harshith Cbit,Emaina chedamaa ipudu?,PM,2022-10-25 21:29:00,1
+363,25/10/2022,10:00 PM,Chetan Cbit C1,Ha,PM,2022-10-25 22:00:00,1
+364,25/10/2022,10:01 PM,Chetan Cbit C1,Idhe na chesedhi,PM,2022-10-25 22:01:00,1
+365,25/10/2022,10:20 PM,Chetan Cbit C1,Arey emaindra @918374552224 @918520075903,PM,2022-10-25 22:20:00,1
+366,25/10/2022,10:23 PM,Sree Harshith Cbit,Rep chedam annar le,PM,2022-10-25 22:23:00,1
+367,25/10/2022,10:54 PM,Chetan Cbit C1,Ah reaction entra,PM,2022-10-25 22:54:00,1
+368,25/10/2022,10:57 PM,Tanish Cbit C1,sorry anna,PM,2022-10-25 22:57:00,1
+369,25/10/2022,10:57 PM,Tanish Cbit C1,ðŸ¥²,PM,2022-10-25 22:57:00,1
+370,25/10/2022,10:58 PM,Chetan Cbit C1,Emaindhi chinna,PM,2022-10-25 22:58:00,1
+371,25/10/2022,11:02 PM,Vishnu Satvik Cbit C1,Motions ata,PM,2022-10-25 23:02:00,1
+372,26/10/2022,6:38 PM,Chetan Cbit C1,<Media omitted>,PM,2022-10-26 18:38:00,1
+373,26/10/2022,6:39 PM,Tanish Cbit C1,@918520075903,PM,2022-10-26 18:39:00,1
+374,26/10/2022,6:39 PM,Chetan Cbit C1,@918367721870 @917893321679 @917337072337,PM,2022-10-26 18:39:00,1
+375,26/10/2022,6:44 PM,Chetan Cbit C1,<Media omitted>,PM,2022-10-26 18:44:00,1
+376,26/10/2022,6:53 PM,Tanish Cbit C1,Naaku ok,PM,2022-10-26 18:53:00,1
+377,26/10/2022,6:53 PM,Tanish Cbit C1,Andaru vastanu ante cheddam,PM,2022-10-26 18:53:00,1
+378,26/10/2022,7:07 PM,Gokul Cbit C1,Ha ok,PM,2022-10-26 19:07:00,1
+379,26/10/2022,7:07 PM,Gokul Cbit C1,Time bolo Rey,PM,2022-10-26 19:07:00,1
+380,26/10/2022,7:07 PM,Gokul Cbit C1,@917013036431,PM,2022-10-26 19:07:00,1
+381,26/10/2022,7:07 PM,Tanish Cbit C1,@918520075903 not responding,PM,2022-10-26 19:07:00,1
+382,26/10/2022,7:07 PM,Tanish Cbit C1,Aagudam,PM,2022-10-26 19:07:00,1
+383,26/10/2022,7:07 PM,Tanish Cbit C1,Not sure,PM,2022-10-26 19:07:00,1
+384,26/10/2022,7:08 PM,Gokul Cbit C1,Rey ee Saturday offline lo present cheyyali,PM,2022-10-26 19:08:00,1
+385,26/10/2022,7:08 PM,Vishnu Satvik Cbit C1,Ehe charging petina,PM,2022-10-26 19:08:00,1
+386,26/10/2022,7:08 PM,Vishnu Satvik Cbit C1,This message was deleted,PM,2022-10-26 19:08:00,1
+387,26/10/2022,7:08 PM,Vishnu Satvik Cbit C1,Endi,PM,2022-10-26 19:08:00,1
+388,26/10/2022,7:08 PM,Tanish Cbit C1,ðŸ‘€ðŸ‘€,PM,2022-10-26 19:08:00,1
+389,26/10/2022,7:09 PM,Gokul Cbit C1,Sare eppudu cheddam,PM,2022-10-26 19:09:00,1
+390,26/10/2022,7:09 PM,Vishnu Satvik Cbit C1,Emo naakem telvad ra,PM,2022-10-26 19:09:00,1
+391,26/10/2022,7:09 PM,Vishnu Satvik Cbit C1,Chedam ante chedam,PM,2022-10-26 19:09:00,1
+392,26/10/2022,7:09 PM,Chetan Cbit C1,Mem ready ipudu,PM,2022-10-26 19:09:00,1
+393,26/10/2022,7:09 PM,Gokul Cbit C1,@917893321679,PM,2022-10-26 19:09:00,1
+394,26/10/2022,7:09 PM,Chetan Cbit C1,Em chedam ipudu,PM,2022-10-26 19:09:00,1
+395,26/10/2022,7:13 PM,Tanish Cbit C1,Haa andaru respond kaavalamma,PM,2022-10-26 19:13:00,1
+396,26/10/2022,7:14 PM,Tanish Cbit C1,Okadu poyyi nenu codechef chestha meeru cheseyendi ante kudaradu,PM,2022-10-26 19:14:00,1
+397,26/10/2022,7:14 PM,Tanish Cbit C1,ðŸ¦Š,PM,2022-10-26 19:14:00,1
+398,26/10/2022,7:14 PM,Chetan Cbit C1,Haa,PM,2022-10-26 19:14:00,1
+399,26/10/2022,7:14 PM,Chetan Cbit C1,@917893321679 @917337072337 @918520075903,PM,2022-10-26 19:14:00,1
+400,26/10/2022,7:15 PM,Tanish Cbit C1,Phonelu pakkaki padestarentra ðŸ˜­ðŸ˜­,PM,2022-10-26 19:15:00,1
+401,26/10/2022,7:15 PM,Vishnu Satvik Cbit C1,<Media omitted>,PM,2022-10-26 19:15:00,1
+402,26/10/2022,7:16 PM,Tanish Cbit C1,Ledante cheppandi nenu poyyi observations raaskovali ðŸ« ðŸ«,PM,2022-10-26 19:16:00,1
+403,26/10/2022,7:16 PM,Chetan Cbit C1,null,PM,2022-10-26 19:16:00,1
+404,26/10/2022,7:16 PM,Tanish Cbit C1,This message was deleted,PM,2022-10-26 19:16:00,1
+405,26/10/2022,7:17 PM,Tanish Cbit C1,Ostavana potunnavana,PM,2022-10-26 19:17:00,1
+406,26/10/2022,7:17 PM,Tanish Cbit C1,ðŸ˜­ðŸ˜­,PM,2022-10-26 19:17:00,1
+407,26/10/2022,7:17 PM,Vishnu Satvik Cbit C1,Ostuna ani chepina ga,PM,2022-10-26 19:17:00,1
+408,26/10/2022,7:17 PM,Vishnu Satvik Cbit C1,E task iste adi chesta,PM,2022-10-26 19:17:00,1
+409,26/10/2022,7:17 PM,Chetan Cbit C1,Decide avali danki mundhu,PM,2022-10-26 19:17:00,1
+410,26/10/2022,7:17 PM,Vishnu Satvik Cbit C1,(codechef included),PM,2022-10-26 19:17:00,1
+411,26/10/2022,7:17 PM,Chetan Cbit C1,Adhi iyam niku,PM,2022-10-26 19:17:00,1
+412,26/10/2022,7:18 PM,Gokul Cbit C1,Arey oka time chepte andhariki,PM,2022-10-26 19:18:00,1
+413,26/10/2022,7:18 PM,Gokul Cbit C1,Call chesi ayina inform cheddam,PM,2022-10-26 19:18:00,1
+414,26/10/2022,7:19 PM,Chetan Cbit C1,Ipude tarvatha Vishnu codechef cheskuntad emo,PM,2022-10-26 19:19:00,1
+415,26/10/2022,7:21 PM,Sree Harshith Cbit,"Arey nenu cutting cheyichukuna, so bath ki velli ocha inthasepu",PM,2022-10-26 19:21:00,1
+416,26/10/2022,7:21 PM,Sree Harshith Cbit,ðŸ¥²,PM,2022-10-26 19:21:00,1
+417,26/10/2022,7:21 PM,Chetan Cbit C1,.,PM,2022-10-26 19:21:00,1
+418,26/10/2022,7:22 PM,Vishnu Satvik Cbit C1,Ehe denguta ra cheyanu nen codechef,PM,2022-10-26 19:22:00,1
+419,26/10/2022,7:22 PM,Sree Harshith Cbit,ðŸ˜‚ðŸ˜‚,PM,2022-10-26 19:22:00,1
+420,26/10/2022,7:22 PM,Vishnu Satvik Cbit C1,Seriously chedam edaina panace rep kuda cheste chedam,PM,2022-10-26 19:22:00,1
+421,26/10/2022,7:22 PM,Sree Harshith Cbit,Haa,PM,2022-10-26 19:22:00,1
+422,26/10/2022,7:22 PM,Gokul Cbit C1,Sare 9 ki pedathava meet,PM,2022-10-26 19:22:00,1
+423,26/10/2022,7:22 PM,Vishnu Satvik Cbit C1,Clg la chedama free perioda,PM,2022-10-26 19:22:00,1
+424,26/10/2022,7:22 PM,Chetan Cbit C1,Ipudu em chedam chepandi ayya,PM,2022-10-26 19:22:00,1
+425,26/10/2022,7:22 PM,Vishnu Satvik Cbit C1,Enduku ipudu busy a,PM,2022-10-26 19:22:00,1
+426,26/10/2022,7:22 PM,Chetan Cbit C1,Ipudu em pani ra,PM,2022-10-26 19:22:00,1
+427,26/10/2022,7:22 PM,Gokul Cbit C1,Free ee,PM,2022-10-26 19:22:00,1
+428,26/10/2022,7:23 PM,Gokul Cbit C1,Ante general ga night chestam kadha ani,PM,2022-10-26 19:23:00,1
+429,26/10/2022,7:23 PM,Gokul Cbit C1,meet Pettu ra @918520075903,PM,2022-10-26 19:23:00,1
+430,26/10/2022,7:23 PM,Tanish Cbit C1,Neeku laptop unda,PM,2022-10-26 19:23:00,1
+431,26/10/2022,7:23 PM,Chetan Cbit C1,Ha,PM,2022-10-26 19:23:00,1
+432,26/10/2022,7:23 PM,Gokul Cbit C1,Ha ðŸ˜ƒ,PM,2022-10-26 19:23:00,1
+433,26/10/2022,7:25 PM,Vishnu Satvik Cbit C1,K,PM,2022-10-26 19:25:00,1
+434,26/10/2022,7:29 PM,Vishnu Satvik Cbit C1,https://meet.google.com/oxc-jibt-qqv,PM,2022-10-26 19:29:00,1
+435,26/10/2022,7:31 PM,Chetan Cbit C1,join avandi,PM,2022-10-26 19:31:00,1
+436,26/10/2022,7:36 PM,Sree Harshith Cbit,Ok,PM,2022-10-26 19:36:00,1
+437,26/10/2022,7:46 PM,Chetan Cbit C1,.,PM,2022-10-26 19:46:00,1
+438,26/10/2022,9:17 PM,Sree Harshith Cbit,https://www.youtube.com/watch?v=Q0QwvZKG_6Q,PM,2022-10-26 21:17:00,1
+439,27/10/2022,11:55 AM,Vishnu Satvik Cbit C1,https://prod.liveshare.vsengsaas.visualstudio.com/join?0C9AD80C965DF90477E0BAA860B4E2EBA075,AM,2022-10-27 11:55:00,1
+440,27/10/2022,11:56 AM,Gokul Cbit C1,Arey ekkada unnaru ra,AM,2022-10-27 11:56:00,1
+441,27/10/2022,11:56 AM,Tanish Cbit C1,cse lab8,AM,2022-10-27 11:56:00,1
+442,27/10/2022,11:56 AM,Gokul Cbit C1,Ok,AM,2022-10-27 11:56:00,1
+443,27/10/2022,11:57 AM,Vishnu Satvik Cbit C1,https://prod.liveshare.vsengsaas.visualstudio.com/join?7A590D270FABE03BAFEB497075F044BF99F5,AM,2022-10-27 11:57:00,1
+444,27/10/2022,3:16 PM,Sree Harshith Cbit,Ekkadunar ra,PM,2022-10-27 15:16:00,1
+445,27/10/2022,3:16 PM,Sree Harshith Cbit,Chedama ipudu,PM,2022-10-27 15:16:00,1
+446,27/10/2022,3:16 PM,Vishnu Satvik Cbit C1,Ground,PM,2022-10-27 15:16:00,1
+447,27/10/2022,5:17 PM,Vishnu Satvik Cbit C1,Arey foxes WD level 2 3,PM,2022-10-27 17:17:00,1
+448,27/10/2022,5:17 PM,Vishnu Satvik Cbit C1,Evaraina cheyakapothe cheyandi,PM,2022-10-27 17:17:00,1
+449,27/10/2022,5:17 PM,Tanish Cbit C1,Avuna,PM,2022-10-27 17:17:00,1
+450,27/10/2022,5:17 PM,Tanish Cbit C1,Why,PM,2022-10-27 17:17:00,1
+451,27/10/2022,5:17 PM,Tanish Cbit C1,Last day na,PM,2022-10-27 17:17:00,1
+452,27/10/2022,5:17 PM,Vishnu Satvik Cbit C1,Oorikene last aithe kastam ani,PM,2022-10-27 17:17:00,1
+453,27/10/2022,5:17 PM,Tanish Cbit C1,Ok,PM,2022-10-27 17:17:00,1
+454,27/10/2022,5:19 PM,Sree Harshith Cbit,Ohh,PM,2022-10-27 17:19:00,1
+455,27/10/2022,5:55 PM,Vishnu Satvik Cbit C1,https://data-flair.training/blogs/python-sentiment-analysis/,PM,2022-10-27 17:55:00,1
+456,27/10/2022,5:55 PM,Vishnu Satvik Cbit C1,Arey idi implement try cheyandi,PM,2022-10-27 17:55:00,1
+457,28/10/2022,6:22 PM,Gokul Cbit C1,Arey koncham early ga start cheddama ?,PM,2022-10-28 18:22:00,1
+458,28/10/2022,6:22 PM,Tanish Cbit C1,7pm,PM,2022-10-28 18:22:00,1
+459,28/10/2022,6:22 PM,Chetan Cbit C1,Ha,PM,2022-10-28 18:22:00,1
+460,28/10/2022,6:22 PM,Gokul Cbit C1,Kudirithe 6 40 pls,PM,2022-10-28 18:22:00,1
+461,28/10/2022,6:22 PM,Tanish Cbit C1,Enduku ra unga,PM,2022-10-28 18:22:00,1
+462,28/10/2022,6:22 PM,Tanish Cbit C1,Inka reach ey kaatledata,PM,2022-10-28 18:22:00,1
+463,28/10/2022,6:22 PM,Tanish Cbit C1,Vishnu,PM,2022-10-28 18:22:00,1
+464,28/10/2022,6:23 PM,Gokul Cbit C1,Relatives ðŸ¤¥ðŸ¤¥,PM,2022-10-28 18:23:00,1
+465,28/10/2022,6:29 PM,Vishnu Satvik Cbit C1,Thokkalo reason chepak,PM,2022-10-28 18:29:00,1
+466,28/10/2022,6:30 PM,Vishnu Satvik Cbit C1,Room Loki ochi gollem petko,PM,2022-10-28 18:30:00,1
+467,28/10/2022,6:30 PM,Gokul Cbit C1,Orey ni relatives ante tatayya aa age kadhu ra,PM,2022-10-28 18:30:00,1
+468,28/10/2022,6:30 PM,Gokul Cbit C1,Ma cousins vastunnaru,PM,2022-10-28 18:30:00,1
+469,28/10/2022,6:31 PM,Gokul Cbit C1,Sava minging,PM,2022-10-28 18:31:00,1
+470,28/10/2022,7:02 PM,Chetan Cbit C1,Ready ah,PM,2022-10-28 19:02:00,1
+471,28/10/2022,7:03 PM,Chetan Cbit C1,Meet pedtuna,PM,2022-10-28 19:03:00,1
+472,28/10/2022,7:03 PM,Vishnu Satvik Cbit C1,Nen eating meet start karoo,PM,2022-10-28 19:03:00,1
+473,28/10/2022,7:04 PM,Chetan Cbit C1,https://meet.google.com/tda-wgsi-nht,PM,2022-10-28 19:04:00,1
+474,28/10/2022,7:07 PM,Chetan Cbit C1 started a cal,Chetan Cbit C1 started a call,PM,2022-10-28 19:07:00,1
+475,28/10/2022,7:08 PM,Tanish Cbit C1,Arey tintunna cheppanu ga ra,PM,2022-10-28 19:08:00,1
+476,28/10/2022,7:08 PM,Tanish Cbit C1,Ostunna,PM,2022-10-28 19:08:00,1
+477,28/10/2022,7:09 PM,Vishnu Satvik Cbit C1,Iam coming,PM,2022-10-28 19:09:00,1
+478,28/10/2022,7:09 PM,Gokul Cbit C1,intha early ga tintava ra ?,PM,2022-10-28 19:09:00,1
+479,28/10/2022,7:11 PM,Sree Harshith Cbit,Naku net sariga ledu ra train lo,PM,2022-10-28 19:11:00,1
+480,28/10/2022,7:26 PM,Chetan Cbit C1,ida,PM,2022-10-28 19:26:00,1
+481,28/10/2022,7:56 PM,Chetan Cbit C1,https://gist.github.com/Saikishorein/0173592eb10f41611d96b232c92b9b22,PM,2022-10-28 19:56:00,1
+482,28/10/2022,7:56 PM,Tanish Cbit C1,Keyshoreee,PM,2022-10-28 19:56:00,1
+483,28/10/2022,8:01 PM,Vishnu Satvik Cbit C1,<Media omitted>,PM,2022-10-28 20:01:00,1
+484,28/10/2022,8:10 PM,Chetan Cbit C1,https://meet.google.com/qst-hqhq-gia,PM,2022-10-28 20:10:00,1
+485,28/10/2022,8:10 PM,Tanish Cbit C1,Arey,PM,2022-10-28 20:10:00,1
+486,28/10/2022,8:10 PM,Tanish Cbit C1,Edit access,PM,2022-10-28 20:10:00,1
+487,28/10/2022,8:10 PM,Tanish Cbit C1,Ivvu bey,PM,2022-10-28 20:10:00,1
+488,28/10/2022,8:10 PM,Tanish Cbit C1,Google doc di,PM,2022-10-28 20:10:00,1
+489,28/10/2022,8:11 PM,Chetan Cbit C1,https://docs.google.com/presentation/d/10rJ_ChfgTXHspDNvENNKro7_szUFH_dh/edit?usp=sharing&ouid=108691949222857324206&rtpof=true&sd=true,PM,2022-10-28 20:11:00,1
+490,28/10/2022,8:18 PM,instigator,<Media omitted>,PM,2022-10-28 20:18:00,1

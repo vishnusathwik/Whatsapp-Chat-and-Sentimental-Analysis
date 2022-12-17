@@ -1,0 +1,46 @@
+{% extends "template.html" %} {% block title %} home {% endblock %} 
+{% block head %}
+
+<!--<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+
+<script>
+  $(document).ready(function () {
+    $('input[type="file"]').change(function (e) {
+      var fileName = e.target.files[0].name;
+
+      alert('The file "' + fileName + '" has been selected.');
+    });
+  });
+</script>
+{% endblock %} {% block body %}
+<div class="container-fluid">
+  <form
+    class="form"
+    method="POST"
+    action="{{ url_for('upload') }}"
+    enctype="multipart/form-data"
+  >
+    <div class="row border border-dark rounded p-2 ml-1 mr-1">
+      <div class="col-md-6">
+        <input type="file" name="file" id="file" class="inputfile" />
+        <label id="label" for="file">Choose .txt file</label>
+      </div>
+
+      <div class="col-md-6">
+        <button type="submit" class="btn btn-lg btn-dark mb-2">Upload</button>
+      </div>
+    </div>
+  </form>
+
+        <section class="page-section bg-primary text-white mb-0" id="about">
+            <div class="container">
+                <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+            </div>
+        </section>
+  
+{% endblock %}-->

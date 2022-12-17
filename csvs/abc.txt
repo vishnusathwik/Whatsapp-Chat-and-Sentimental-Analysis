@@ -1,0 +1,245 @@
+,Date,Time,Contacts,Messages,Shift,date_time,message_count
+0,19/02/2021,7:39 AM,+91 73309 67070,Happy Birthday Lekha ðŸŽ‰,AM,2021-02-19 07:39:00,1
+1,19/02/2021,7:42 AM,Sumanth Cbit Cse,Happy Birthday Sri lekha,AM,2021-02-19 07:42:00,1
+2,19/02/2021,7:43 AM,+91 96523 93313,Happy birthday Lekha,AM,2021-02-19 07:43:00,1
+3,19/02/2021,7:43 AM,+91 99123 45683,Happy Birthday Sri LekhaðŸ¥³ðŸ¥³,AM,2021-02-19 07:43:00,1
+4,19/02/2021,7:44 AM,Vishnu Cbit Cse,Happy Birthday Srilekha,AM,2021-02-19 07:44:00,1
+5,19/02/2021,7:46 AM,Puneeth Cbit Cse,Happy birthday Srilekha ðŸŽ‰ðŸŽ‚,AM,2021-02-19 07:46:00,1
+6,19/02/2021,7:47 AM,Chetan,Happy Birthday Srilekha,AM,2021-02-19 07:47:00,1
+7,19/02/2021,7:53 AM,Pavan Cbit Cse,Happy birthday srilekha,AM,2021-02-19 07:53:00,1
+8,19/02/2021,7:54 AM,Harshith Cbit Cse,Happy birthday Srilekha ðŸŽ‚ðŸ¥³,AM,2021-02-19 07:54:00,1
+9,19/02/2021,7:55 AM,Abhiram Cbit Cse,Happy birthday srilekha,AM,2021-02-19 07:55:00,1
+10,19/02/2021,7:56 AM,Aadarsh Cbit Cse,Happy Birthday srilekha,AM,2021-02-19 07:56:00,1
+11,19/02/2021,8:02 AM,Sri Lekha Cbit Cse,Thank u so much everyone,AM,2021-02-19 08:02:00,1
+12,19/02/2021,8:02 AM,Abdul Cbit Cse,Happy Birthday srilekha,AM,2021-02-19 08:02:00,1
+13,19/02/2021,8:03 AM,Mahesh Cbit Cse,Many happy returns of the day Srilekha,AM,2021-02-19 08:03:00,1
+14,19/02/2021,8:03 AM,Siddhardha Cbit Cse,Happy birthday srilekhaðŸ¥³ðŸŽ‰ðŸŽ‚ðŸ¥ðŸ°,AM,2021-02-19 08:03:00,1
+15,19/02/2021,8:04 AM,+91 87902 87514,Happy birthday srilekha!!!,AM,2021-02-19 08:04:00,1
+16,19/02/2021,8:08 AM,Likith Cbit Cse,Happy birthday srilekha,AM,2021-02-19 08:08:00,1
+17,19/02/2021,8:09 AM,+91 94927 18166,Happy birthday Srilekha,AM,2021-02-19 08:09:00,1
+18,19/02/2021,8:09 AM,Dhruv Saxena Cbit Cse,Happy birthday Srilekha,AM,2021-02-19 08:09:00,1
+19,19/02/2021,8:18 AM,Gokul Cbit Cse,Happy birthday srilekha,AM,2021-02-19 08:18:00,1
+20,19/02/2021,8:19 AM,Senior Adarsh Cbit Cse,Happy Birthday Srilekha,AM,2021-02-19 08:19:00,1
+21,19/02/2021,8:25 AM,Gopal Cbit Cse,Happy Birthday Srilekha!,AM,2021-02-19 08:25:00,1
+22,19/02/2021,8:26 AM,Vinay Cbit Cse,This message was deleted,AM,2021-02-19 08:26:00,1
+23,19/02/2021,8:26 AM,Bow Singh Cbit Cse,Happy Birthday Srilekha,AM,2021-02-19 08:26:00,1
+24,19/02/2021,8:27 AM,Vinay Cbit Cse,Happy Birthday srilekhaðŸŽ‰ðŸŽ‰ðŸŽ‰ðŸŽ‰,AM,2021-02-19 08:27:00,1
+25,19/02/2021,8:27 AM,Saketh Cbit Cse,Happy Birthday Srilekha.,AM,2021-02-19 08:27:00,1
+26,19/02/2021,8:28 AM,Sri Lekha Cbit Cse,Thank u so much,AM,2021-02-19 08:28:00,1
+27,19/02/2021,8:30 AM,Shahbaz Cbit Cse,Happy birthday srilekha,AM,2021-02-19 08:30:00,1
+28,19/02/2021,8:30 AM,Ameenuddin Cbit Cse,Happy birthday Srilekha,AM,2021-02-19 08:30:00,1
+29,19/02/2021,8:31 AM,Uday Cbit Cse,Happy Birthday srilekha ðŸŽ‚,AM,2021-02-19 08:31:00,1
+30,19/02/2021,8:32 AM,+91 90143 79255,Happy Birthday Srilekha,AM,2021-02-19 08:32:00,1
+31,19/02/2021,8:33 AM,Bhavana Cbit Cse,Happy Birthday Srilekha,AM,2021-02-19 08:33:00,1
+32,19/02/2021,8:34 AM,+91 6309 296 805,happy birthday srilekhaðŸ¥³ðŸ¥³,AM,2021-02-19 08:34:00,1
+33,19/02/2021,8:34 AM,Sri Lekha Cbit Cse,Thank youu ðŸ˜‡,AM,2021-02-19 08:34:00,1
+34,19/02/2021,8:39 AM,Manisha Cbit Cse,Happie b'day srilekhaðŸŽ‰ðŸŽ‰ðŸŽ‰,AM,2021-02-19 08:39:00,1
+35,19/02/2021,8:40 AM,Jahnavi Manoj Cbit Cse,Happy birthday srilekha!!!,AM,2021-02-19 08:40:00,1
+36,19/02/2021,8:42 AM,Dhanush Cbit Cse,Happy Birthday Srilekha,AM,2021-02-19 08:42:00,1
+37,19/02/2021,8:48 AM,Sindhu Cbit Cse,Happy Birthday SrilekhaðŸ¥³ðŸ¥³,AM,2021-02-19 08:48:00,1
+38,19/02/2021,8:53 AM,+91 78939 65547,Happy birthday SrilekhaðŸ¥³ðŸ¥³ðŸ¥³,AM,2021-02-19 08:53:00,1
+39,19/02/2021,8:53 AM,Satvik Cbit Cse,Happy Birthday Srilekha,AM,2021-02-19 08:53:00,1
+40,19/02/2021,8:56 AM,Sri Lekha Cbit Cse,Thank uðŸ˜‡,AM,2021-02-19 08:56:00,1
+41,19/02/2021,8:56 AM,+91 6303 391 770,happy birthday srilekhaðŸ˜Š,AM,2021-02-19 08:56:00,1
+42,19/02/2021,9:13 AM,+91 79898 46840,Happy birthday srilekha,AM,2021-02-19 09:13:00,1
+43,19/02/2021,9:14 AM,+91 91103 15072,Happy birthday Srilekha!!,AM,2021-02-19 09:14:00,1
+44,19/02/2021,9:15 AM,Sri Lekha Cbit Cse,Thank you so muchðŸ˜‡,AM,2021-02-19 09:15:00,1
+45,19/02/2021,9:15 AM,Aman Rachala N120 Cbit Cse,Happy birthday SrilekhaðŸ¥³,AM,2021-02-19 09:15:00,1
+46,19/02/2021,10:22 AM,+91 76740 13434,Happy Birthday Srilekha!,AM,2021-02-19 10:22:00,1
+47,19/02/2021,10:37 AM,Sri Lekha Cbit Cse,Thank you,AM,2021-02-19 10:37:00,1
+48,19/02/2021,1:09 PM,Bhavana Cbit Cse,Join with Google Meet: https://meet.google.com/tpr-zyjj-xkg,PM,2021-02-19 13:09:00,1
+49,19/02/2021,1:11 PM,Puneeth Cbit Cse,cls started aa,PM,2021-02-19 13:11:00,1
+50,19/02/2021,1:11 PM,Bhavana Cbit Cse,yes,PM,2021-02-19 13:11:00,1
+51,19/02/2021,1:11 PM,Tanish Cbit Cse,yes,PM,2021-02-19 13:11:00,1
+52,19/02/2021,1:12 PM,Tanish Cbit Cse,Join with Google Meet: https://meet.google.com/tpr-zyjj-xkg,PM,2021-02-19 13:12:00,1
+53,19/02/2021,2:22 PM,Abdul Cbit Cse,Is sir allowing,PM,2021-02-19 14:22:00,1
+54,19/02/2021,2:22 PM,Puneeth Cbit Cse,no,PM,2021-02-19 14:22:00,1
+55,19/02/2021,2:22 PM,Tanish Cbit Cse,No,PM,2021-02-19 14:22:00,1
+56,19/02/2021,2:22 PM,Sri Lekha Cbit Cse,No,PM,2021-02-19 14:22:00,1
+57,19/02/2021,3:11 PM,+91 99123 45683,Hello folks of CBIT â€“ Let us present to thee:,PM,2021-02-19 15:11:00,1
+58,19/02/2021,3:11 PM,+91 99123 45683,<Media omitted>,PM,2021-02-19 15:11:00,1
+59,19/02/2021,3:16 PM,Harshith Cbit Cse,E lesson ppt share chesaraa?,PM,2021-02-19 15:16:00,1
+60,19/02/2021,3:16 PM,Harshith Cbit Cse,Phy,PM,2021-02-19 15:16:00,1
+61,19/02/2021,3:22 PM,Chetan,No,PM,2021-02-19 15:22:00,1
+62,19/02/2021,3:25 PM,Sindhu Cbit Cse,<Media omitted>,PM,2021-02-19 15:25:00,1
+63,19/02/2021,3:26 PM,Vishnu Cbit Cse,Mana pps ma'am ki pampale idi ðŸ˜‚,PM,2021-02-19 15:26:00,1
+64,19/02/2021,3:28 PM,Harshith Cbit Cse,ðŸ¤£ðŸ¤£,PM,2021-02-19 15:28:00,1
+65,19/02/2021,3:29 PM,Harshith Cbit Cse,Dr Srinivasulu NV is inviting you to a scheduled Zoom meeting.,PM,2021-02-19 15:29:00,1
+66,19/02/2021,3:29 PM,Harshith Cbit Cse,Join,PM,2021-02-19 15:29:00,1
+67,19/02/2021,3:29 PM,Harshith Cbit Cse,Started,PM,2021-02-19 15:29:00,1
+68,19/02/2021,4:52 PM,Tanish Cbit Cse,For the output of Quadratic form,PM,2021-02-19 16:52:00,1
+69,19/02/2021,4:54 PM,Tanish Cbit Cse,<Media omitted>,PM,2021-02-19 16:54:00,1
+70,19/02/2021,4:59 PM,Manisha Cbit Cse,I think so,PM,2021-02-19 16:59:00,1
+71,19/02/2021,5:00 PM,Manisha Cbit Cse,Ur wish,PM,2021-02-19 17:00:00,1
+72,19/02/2021,5:00 PM,Tanish Cbit Cse,Ok,PM,2021-02-19 17:00:00,1
+73,19/02/2021,5:00 PM,Tanish Cbit Cse,Thank you,PM,2021-02-19 17:00:00,1
+74,19/02/2021,5:03 PM,Bhavana Cbit Cse,Basic commands as experiment 1,PM,2021-02-19 17:03:00,1
+75,19/02/2021,5:03 PM,Bhavana Cbit Cse,Pls execute few examples for those.,PM,2021-02-19 17:03:00,1
+76,19/02/2021,6:34 PM,Tanish Cbit Cse,Ma'am before giving for binding should we also add like any empty pages at the end(for the next time),PM,2021-02-19 18:34:00,1
+77,19/02/2021,6:34 PM,Tanish Cbit Cse,Or else just get the binding done for only these 8 experiments,PM,2021-02-19 18:34:00,1
+78,19/02/2021,6:34 PM,Tanish Cbit Cse,Any suggestionsðŸ˜…,PM,2021-02-19 18:34:00,1
+79,19/02/2021,6:35 PM,Bhavana Cbit Cse,Did u complete writing all those 8 exp?,PM,2021-02-19 18:35:00,1
+80,19/02/2021,6:35 PM,Tanish Cbit Cse,Yes,PM,2021-02-19 18:35:00,1
+81,19/02/2021,6:35 PM,Vishal Cbit Cse,We can add papers to spiral binding later also..,PM,2021-02-19 18:35:00,1
+82,19/02/2021,6:36 PM,Tanish Cbit Cse,Oh is it,PM,2021-02-19 18:36:00,1
+83,19/02/2021,6:36 PM,Tanish Cbit Cse,Then ok,PM,2021-02-19 18:36:00,1
+84,19/02/2021,6:36 PM,Tanish Cbit Cse,But should we write Addition of a matrix seperately,PM,2021-02-19 18:36:00,1
+85,19/02/2021,6:37 PM,Gopal Cbit Cse,This message was deleted,PM,2021-02-19 18:37:00,1
+86,19/02/2021,6:37 PM,Bhavana Cbit Cse,<Media omitted>,PM,2021-02-19 18:37:00,1
+87,19/02/2021,6:37 PM,Gopal Cbit Cse,This message was deleted,PM,2021-02-19 18:37:00,1
+88,19/02/2021,6:37 PM,Bhavana Cbit Cse,In this both addition and multiplication are seperate,PM,2021-02-19 18:37:00,1
+89,19/02/2021,6:37 PM,Tanish Cbit Cse,Yes but,PM,2021-02-19 18:37:00,1
+90,19/02/2021,6:49 PM,+91 79898 46840,"should we have to write aim,formulas in experiment?",PM,2021-02-19 18:49:00,1
+91,19/02/2021,8:47 PM,Chetan,You deleted this message,PM,2021-02-19 20:47:00,1
+92,19/02/2021,8:47 PM,Tanish Cbit Cse,This message was deleted,PM,2021-02-19 20:47:00,1
+93,20/02/2021,9:14 AM,Abdul Cbit Cse,Friends do we have class now,AM,2021-02-20 09:14:00,1
+94,20/02/2021,9:14 AM,Harshith Cbit Cse,Yes,AM,2021-02-20 09:14:00,1
+95,20/02/2021,9:14 AM,Harshith Cbit Cse,Didn't get the link,AM,2021-02-20 09:14:00,1
+96,20/02/2021,9:14 AM,Abdul Cbit Cse,No,AM,2021-02-20 09:14:00,1
+97,20/02/2021,9:15 AM,Gopal Cbit Cse,@919392593213,AM,2021-02-20 09:15:00,1
+98,20/02/2021,9:16 AM,Abdul Cbit Cse,Where is the link,AM,2021-02-20 09:16:00,1
+99,20/02/2021,9:17 AM,Chetan,Hence no OST class in the morning,AM,2021-02-20 09:17:00,1
+100,20/02/2021,9:17 AM,Chetan,OSP*,AM,2021-02-20 09:17:00,1
+101,20/02/2021,9:17 AM,Abdul Cbit Cse,Ok,AM,2021-02-20 09:17:00,1
+102,20/02/2021,9:18 AM,Abdul Cbit Cse,English in second hour right,AM,2021-02-20 09:18:00,1
+103,20/02/2021,9:18 AM,+91 6309 296 805,"eng first,then phy and pps",AM,2021-02-20 09:18:00,1
+104,20/02/2021,9:18 AM,Mahesh Cbit Cse,Ayyagaaru... News enti inthaki?,AM,2021-02-20 09:18:00,1
+105,20/02/2021,9:18 AM,Puneeth Cbit Cse,Yes,AM,2021-02-20 09:18:00,1
+106,20/02/2021,9:18 AM,Puneeth Cbit Cse,No reply,AM,2021-02-20 09:18:00,1
+107,20/02/2021,9:19 AM,Puneeth Cbit Cse,Call also not lifting,AM,2021-02-20 09:19:00,1
+108,20/02/2021,9:19 AM,Mahesh Cbit Cse,<Media omitted>,AM,2021-02-20 09:19:00,1
+109,20/02/2021,9:19 AM,Puneeth Cbit Cse,<Media omitted>,AM,2021-02-20 09:19:00,1
+110,20/02/2021,9:23 AM,Puneeth Cbit Cse,English 2nd period anta frns,AM,2021-02-20 09:23:00,1
+111,20/02/2021,9:24 AM,Mahesh Cbit Cse,Antha vaala istame ne ra,AM,2021-02-20 09:24:00,1
+112,20/02/2021,9:24 AM,Mahesh Cbit Cse,Manalni pattinchukoraa,AM,2021-02-20 09:24:00,1
+113,20/02/2021,9:24 AM,Puneeth Cbit Cse,Rey,AM,2021-02-20 09:24:00,1
+114,20/02/2021,9:24 AM,Puneeth Cbit Cse,"Mam, physics sir  exchange chesukunnar Anta. Periods.",AM,2021-02-20 09:24:00,1
+115,20/02/2021,9:25 AM,Puneeth Cbit Cse,Every week anthe vuntadanta ika,AM,2021-02-20 09:25:00,1
+116,20/02/2021,9:25 AM,Bhavana Cbit Cse,Ayithe ipudu phy aa?,AM,2021-02-20 09:25:00,1
+117,20/02/2021,9:25 AM,Puneeth Cbit Cse,No,AM,2021-02-20 09:25:00,1
+118,20/02/2021,9:26 AM,Puneeth Cbit Cse,Kali ippudu,AM,2021-02-20 09:26:00,1
+119,20/02/2021,9:26 AM,Bhavana Cbit Cse,Kk,AM,2021-02-20 09:26:00,1
+120,20/02/2021,10:07 AM,Vikram Cbit Cse,class started?,AM,2021-02-20 10:07:00,1
+121,20/02/2021,10:07 AM,Manisha Cbit Cse,10:15 kk,AM,2021-02-20 10:07:00,1
+122,20/02/2021,10:07 AM,Manisha Cbit Cse,*Ki,AM,2021-02-20 10:07:00,1
+123,20/02/2021,10:18 AM,Vikram Cbit Cse,now?,AM,2021-02-20 10:18:00,1
+124,20/02/2021,10:18 AM,Puneeth Cbit Cse,No,AM,2021-02-20 10:18:00,1
+125,20/02/2021,10:24 AM,Harshith Cbit Cse,Started,AM,2021-02-20 10:24:00,1
+126,20/02/2021,11:30 AM,Bhavana Cbit Cse,cls started?,AM,2021-02-20 11:30:00,1
+127,20/02/2021,11:31 AM,Sri Lekha Cbit Cse,Yes,AM,2021-02-20 11:31:00,1
+128,20/02/2021,11:31 AM,+91 87902 87514,Ask mam to let me in,AM,2021-02-20 11:31:00,1
+129,20/02/2021,11:32 AM,+91 78939 65547,Me too,AM,2021-02-20 11:32:00,1
+130,20/02/2021,12:27 PM,Gopal Cbit Cse,Let's ask ma'am to take class?,PM,2021-02-20 12:27:00,1
+131,20/02/2021,12:27 PM,Bhavana Cbit Cse,Tomorrow?,PM,2021-02-20 12:27:00,1
+132,20/02/2021,12:27 PM,Gopal Cbit Cse,"Cuz just reading the ppt won't help ig, the ppt is vague",PM,2021-02-20 12:27:00,1
+133,20/02/2021,12:28 PM,+91 78939 65547,ya ok,PM,2021-02-20 12:28:00,1
+134,20/02/2021,12:36 PM,Puneeth Cbit Cse,Lab internal eppudu manaki,PM,2021-02-20 12:36:00,1
+135,20/02/2021,12:37 PM,Mahesh Cbit Cse,A sub dhora,PM,2021-02-20 12:37:00,1
+136,20/02/2021,12:37 PM,Puneeth Cbit Cse,Pps,PM,2021-02-20 12:37:00,1
+137,20/02/2021,12:37 PM,Mahesh Cbit Cse,Wednes ig,PM,2021-02-20 12:37:00,1
+138,20/02/2021,12:37 PM,Sri Lekha Cbit Cse,Wed anukunta,PM,2021-02-20 12:37:00,1
+139,20/02/2021,12:37 PM,Puneeth Cbit Cse,Please ask anyone,PM,2021-02-20 12:37:00,1
+140,20/02/2021,12:37 PM,Puneeth Cbit Cse,Or can I ask?,PM,2021-02-20 12:37:00,1
+141,20/02/2021,12:38 PM,+91 6309 296 805,Itâ€™s Wednesday only,PM,2021-02-20 12:38:00,1
+142,20/02/2021,3:35 PM,Harshith Cbit Cse,Did anyone start slip test?,PM,2021-02-20 15:35:00,1
+143,20/02/2021,3:35 PM,Puneeth Cbit Cse,ippudu cls leda,PM,2021-02-20 15:35:00,1
+144,20/02/2021,3:35 PM,Abdul Cbit Cse,Iam not able to find it,PM,2021-02-20 15:35:00,1
+145,20/02/2021,3:35 PM,Puneeth Cbit Cse,ite,PM,2021-02-20 15:35:00,1
+146,20/02/2021,3:36 PM,Bow Singh Cbit Cse,This message was deleted,PM,2021-02-20 15:36:00,1
+147,20/02/2021,3:36 PM,Abdul Cbit Cse,Where,PM,2021-02-20 15:36:00,1
+148,20/02/2021,3:36 PM,Harshith Cbit Cse,Lms,PM,2021-02-20 15:36:00,1
+149,20/02/2021,3:36 PM,Bow Singh Cbit Cse,This message was deleted,PM,2021-02-20 15:36:00,1
+150,20/02/2021,3:36 PM,Abdul Cbit Cse,This message was deleted,PM,2021-02-20 15:36:00,1
+151,20/02/2021,3:37 PM,Abdul Cbit Cse,Is it in lms,PM,2021-02-20 15:37:00,1
+152,20/02/2021,3:37 PM,Vishal Cbit Cse,s,PM,2021-02-20 15:37:00,1
+153,20/02/2021,8:49 PM,Gopal Cbit Cse,"If anyone completed math record, can they pls scan and send the record in order?",PM,2021-02-20 20:49:00,1
+154,20/02/2021,9:00 PM,Mahesh Cbit Cse,Yah... Someone pls post it here,PM,2021-02-20 21:00:00,1
+155,20/02/2021,9:51 PM,Saketh Cbit Cse,In 2d data plotting do we need to  write both single function and multiple functions?,PM,2021-02-20 21:51:00,1
+156,20/02/2021,9:51 PM,Saketh Cbit Cse,In record,PM,2021-02-20 21:51:00,1
+157,20/02/2021,10:00 PM,Chetan,Madam Do we need to write both single and multiple functions as plot 2d experiment?,PM,2021-02-20 22:00:00,1
+158,20/02/2021,10:00 PM,Chetan,Plsn write,PM,2021-02-20 22:00:00,1
+159,20/02/2021,11:49 PM,+91 90143 79255,<Media omitted>,PM,2021-02-20 23:49:00,1
+160,20/02/2021,11:49 PM,+91 90143 79255,Greetings!!,PM,2021-02-20 23:49:00,1
+161,21/02/2021,9:22 AM,Gokul Cbit Cse,When should we submit our phy records,AM,2021-02-21 09:22:00,1
+162,21/02/2021,10:16 AM,Puneeth Cbit Cse,Math record evarina rasara,AM,2021-02-21 10:16:00,1
+163,21/02/2021,11:34 AM,Shyam Cbit Cse,Can anyone tell me the format to write math record??,AM,2021-02-21 11:34:00,1
+164,21/02/2021,11:35 AM,Puneeth Cbit Cse,<Media omitted>,AM,2021-02-21 11:35:00,1
+165,21/02/2021,11:35 AM,Puneeth Cbit Cse,teliste rastam ga,AM,2021-02-21 11:35:00,1
+166,21/02/2021,11:35 AM,Puneeth Cbit Cse,ippatidaka na,AM,2021-02-21 11:35:00,1
+167,21/02/2021,11:36 AM,Puneeth Cbit Cse,nuvve cheppali,AM,2021-02-21 11:36:00,1
+168,21/02/2021,11:36 AM,Puneeth Cbit Cse,teliste,AM,2021-02-21 11:36:00,1
+169,21/02/2021,11:52 AM,Mahesh Cbit Cse,Raayledha inkaa nuvvu,AM,2021-02-21 11:52:00,1
+170,21/02/2021,11:52 AM,Puneeth Cbit Cse,nuvvu rasava,AM,2021-02-21 11:52:00,1
+171,21/02/2021,11:53 AM,Mahesh Cbit Cse,Evaraina pampiste raadham ani waiting.. inka evar pampaledh,AM,2021-02-21 11:53:00,1
+172,21/02/2021,11:53 AM,Puneeth Cbit Cse,nuvvu rayakapote nen ela rastan,AM,2021-02-21 11:53:00,1
+173,21/02/2021,11:53 AM,Puneeth Cbit Cse,nede avvakapote mementha,AM,2021-02-21 11:53:00,1
+174,21/02/2021,11:58 AM,Mahesh Cbit Cse,Erri puv kathalu ivanni,AM,2021-02-21 11:58:00,1
+175,21/02/2021,11:58 AM,Puneeth Cbit Cse,Mundundi nadipinchakunda em chestunnav ðŸ˜‚ðŸ˜‚,AM,2021-02-21 11:58:00,1
+176,21/02/2021,1:25 PM,Chetan,-Policeman: How could you kill 49,PM,2021-02-21 13:25:00,1
+177,21/02/2021,1:33 PM,Harshith Cbit Cse,ðŸ˜‚,PM,2021-02-21 13:33:00,1
+178,21/02/2021,1:36 PM,Puneeth Cbit Cse,ðŸ˜‚,PM,2021-02-21 13:36:00,1
+179,21/02/2021,4:28 PM,Puneeth Cbit Cse,<Media omitted>,PM,2021-02-21 16:28:00,1
+180,21/02/2021,4:36 PM,Chetan,ðŸ¤£ðŸ¤£,PM,2021-02-21 16:36:00,1
+181,21/02/2021,11:44 PM,Puneeth Cbit Cse,"evarina physics energy gap , hall effect values pampandi plzzz",PM,2021-02-21 23:44:00,1
+182,22/02/2021,9:09 AM,Bhavana Cbit Cse,Sir is calling come fst,AM,2021-02-22 09:09:00,1
+183,22/02/2021,5:27 PM,Sumanth Cbit Cse,"Guys, what we have to do about english record ?",PM,2021-02-22 17:27:00,1
+184,22/02/2021,5:35 PM,Puneeth Cbit Cse,Mam said she will explain in next cls,PM,2021-02-22 17:35:00,1
+185,22/02/2021,7:55 PM,Senior Adarsh Cbit Cse,Hey there CBITians! Ramanujan Math Club is back at it again with its new edition of Mathletes!,PM,2021-02-22 19:55:00,1
+186,23/02/2021,10:20 AM,Abdul Cbit Cse,Class link?,AM,2021-02-23 10:20:00,1
+187,23/02/2021,10:30 AM,Abdul Cbit Cse,Did the class start,AM,2021-02-23 10:30:00,1
+188,23/02/2021,10:42 AM,Puneeth Cbit Cse,Any one have doubts,AM,2021-02-23 10:42:00,1
+189,23/02/2021,11:32 AM,Gopal Cbit Cse,Cls link?,AM,2021-02-23 11:32:00,1
+190,23/02/2021,11:36 AM,Bhavana Cbit Cse,"Guys, if u r all ok I will call sir and remember him abt cls",AM,2021-02-23 11:36:00,1
+191,23/02/2021,11:36 AM,Sumanth Cbit Cse,ok,AM,2021-02-23 11:36:00,1
+192,23/02/2021,11:45 AM,Bhavana Cbit Cse,Network problem.i will take tomorrow,AM,2021-02-23 11:45:00,1
+193,23/02/2021,11:46 AM,+91 6309 296 805,This message was deleted,AM,2021-02-23 11:46:00,1
+194,23/02/2021,11:46 AM,+91 6309 296 805,This message was deleted,AM,2021-02-23 11:46:00,1
+195,23/02/2021,12:16 PM,Gopal Cbit Cse,This message was deleted,PM,2021-02-23 12:16:00,1
+196,23/02/2021,1:12 PM,Chetan,Did class start?,PM,2021-02-23 13:12:00,1
+197,23/02/2021,1:13 PM,Vishnu Cbit Cse,No ig,PM,2021-02-23 13:13:00,1
+198,23/02/2021,1:13 PM,+91 78939 65547,no,PM,2021-02-23 13:13:00,1
+199,23/02/2021,1:13 PM,Chetan,Ok,PM,2021-02-23 13:13:00,1
+200,23/02/2021,1:16 PM,Harshith Cbit Cse,Started,PM,2021-02-23 13:16:00,1
+201,23/02/2021,1:16 PM,Vishnu Cbit Cse,Iam still in waiting room,PM,2021-02-23 13:16:00,1
+202,23/02/2021,1:17 PM,Vishal Cbit Cse,re join,PM,2021-02-23 13:17:00,1
+203,23/02/2021,1:30 PM,Harshith Cbit Cse,This message was deleted,PM,2021-02-23 13:30:00,1
+204,23/02/2021,2:20 PM,Bhavana Cbit Cse,Wt is the ans for this sum?,PM,2021-02-23 14:20:00,1
+205,23/02/2021,2:21 PM,Bow Singh Cbit Cse,-2pia^2,PM,2021-02-23 14:21:00,1
+206,23/02/2021,2:21 PM,Bhavana Cbit Cse,Ok,PM,2021-02-23 14:21:00,1
+207,23/02/2021,2:23 PM,Harshith Cbit Cse,According to the limits given by mam it was the answer but last mam said some other answer na,PM,2021-02-23 14:23:00,1
+208,23/02/2021,2:23 PM,Harshith Cbit Cse,-Ï€a^2/âˆš2,PM,2021-02-23 14:23:00,1
+209,23/02/2021,2:58 PM,Puneeth Cbit Cse,varaprasadgoud_sms@cbit.ac.in,PM,2021-02-23 14:58:00,1
+210,23/02/2021,4:16 PM,Puneeth Cbit Cse,Attendance time,PM,2021-02-23 16:16:00,1
+211,23/02/2021,4:16 PM,Puneeth Cbit Cse,Ravali andaru record Lu pakkanapetti,PM,2021-02-23 16:16:00,1
+212,23/02/2021,4:16 PM,Puneeth Cbit Cse,Oka 2 min,PM,2021-02-23 16:16:00,1
+213,23/02/2021,4:16 PM,Puneeth Cbit Cse,ðŸ˜‚ðŸ˜‚,PM,2021-02-23 16:16:00,1
+214,23/02/2021,4:16 PM,Sri Lekha Cbit Cse,ðŸ˜‚,PM,2021-02-23 16:16:00,1
+215,23/02/2021,6:09 PM,+91 78939 65547,guys shall we all agree and stop at arrays,PM,2021-02-23 18:09:00,1
+216,23/02/2021,6:10 PM,Pavan Cbit Cse,Yes pls,PM,2021-02-23 18:10:00,1
+217,23/02/2021,6:10 PM,Saketh Cbit Cse,Ss,PM,2021-02-23 18:10:00,1
+218,23/02/2021,6:10 PM,Siddhardha Cbit Cse,Yes,PM,2021-02-23 18:10:00,1
+219,23/02/2021,6:10 PM,+91 6304 168 491,Yeah,PM,2021-02-23 18:10:00,1
+220,23/02/2021,6:10 PM,+91 90143 79255,yesssss,PM,2021-02-23 18:10:00,1
+221,23/02/2021,6:10 PM,Senior Adarsh Cbit Cse,Yes,PM,2021-02-23 18:10:00,1
+222,23/02/2021,6:10 PM,Sri Lekha Cbit Cse,Yess,PM,2021-02-23 18:10:00,1
+223,23/02/2021,6:10 PM,+91 76740 13434,Yeah,PM,2021-02-23 18:10:00,1
+224,23/02/2021,6:10 PM,+91 6303 391 770,Yeah,PM,2021-02-23 18:10:00,1
+225,23/02/2021,6:10 PM,Ruthvik Cbit Cse,Yeah,PM,2021-02-23 18:10:00,1
+226,23/02/2021,6:10 PM,Gokul Cbit Cse,YesðŸ˜‚ðŸ˜‚,PM,2021-02-23 18:10:00,1
+227,23/02/2021,6:11 PM,Dhanush Cbit Cse,yeah,PM,2021-02-23 18:11:00,1
+228,23/02/2021,6:11 PM,Vishnu Cbit Cse,maam will compulsoryly say no,PM,2021-02-23 18:11:00,1
+229,23/02/2021,6:11 PM,Bhavana Cbit Cse,Definitely,PM,2021-02-23 18:11:00,1
+230,23/02/2021,6:11 PM,+91 6309 296 805,yessss,PM,2021-02-23 18:11:00,1
+231,23/02/2021,6:11 PM,Vishnu Cbit Cse,if we all dont write she will cut marks for everyone,PM,2021-02-23 18:11:00,1
+232,23/02/2021,6:12 PM,Abdul Cbit Cse,Are you guys talking about observation book,PM,2021-02-23 18:12:00,1
+233,23/02/2021,6:12 PM,+91 6309 296 805,but how can we write so much in one day,PM,2021-02-23 18:12:00,1
+234,23/02/2021,6:12 PM,+91 6309 296 805,no record,PM,2021-02-23 18:12:00,1
+235,23/02/2021,6:12 PM,Sri Lekha Cbit Cse,Record,PM,2021-02-23 18:12:00,1
+236,23/02/2021,6:12 PM,Aadarsh Cbit Cse,anyhow madam did not teach files...will say we will submit pointers structures and filles together,PM,2021-02-23 18:12:00,1
+237,23/02/2021,6:12 PM,Abdul Cbit Cse,What about observation book,PM,2021-02-23 18:12:00,1
+238,23/02/2021,6:12 PM,+91 90143 79255,EXACTLY,PM,2021-02-23 18:12:00,1
+239,23/02/2021,6:13 PM,+91 90143 79255,If noone writes what can she even say,PM,2021-02-23 18:13:00,1
+240,23/02/2021,6:13 PM,+91 78939 65547,no lya we will say this,PM,2021-02-23 18:13:00,1
+241,23/02/2021,6:13 PM,+91 78939 65547,ya,PM,2021-02-23 18:13:00,1
+242,23/02/2021,6:13 PM,+91 6309 296 805,exactly,PM,2021-02-23 18:13:00,1
+243,23/02/2021,6:13 PM,+91 78939 65547,completing till arrays is only like a miracle,PM,2021-02-23 18:13:00,1

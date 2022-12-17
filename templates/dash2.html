@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,shrink"
+    />
+    <style>
+      #sentiment{
+        background-color:#1abc9c;
+      }
+    html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+    </style>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/style.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+      crossorigin="anonymous"
+    />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+
+  </head>
+
+  <body>
+    <nav class="navbar navbar-expand-lg text-uppercase navbar-custom" style = "background-color : #23395d;" id="mainNav">
+      <div class="container">
+          <a class="navbar-brand" href="#">Whatsapp Analyzer</a>
+          <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+              Menu
+              <i class="fas fa-bars"></i>
+          </button>
+          <div class="collapse navbar-collapse" style = "color:black" id="navbarResponsive">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#whatsapp" >Whatsapp Analysis</a></li>
+                <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#sentiment" >Sentimental Analysis</a></li>
+            </ul>
+          </div>
+
+  </nav>
+    <div class="border-dark" style="background-color: #1abc9c" id="whatsapp">
+      <div class="row">
+        <div class="col">
+          <h1 id="header" class="text-center p-2 mt-4 mb-5" style="font-size:55px">CHAT ANALYSIS</h1>
+        </div>
+      </div>
+      <div class="row p-4">
+        <div
+          class="col-md-3 border border-dark" style="border-radius: 50px; background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);">
+          <h2 class="text-center mt-4">{{msgs}}</h2>
+          <h4 class="text-center mb-4">Number of messages</h4>
+        </div>
+        <div class="col-md-3 border border-dark "style="border-radius: 50px;background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);"
+        >
+          <h2 class="text-center mt-4">{{member}}</h2>
+          <h4 class="text-center mb-4">Number of members</h4>
+        </div>
+        <div class="col-md-3 border border-dark" style="border-radius: 50px;background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);">
+          <h2 class="text-center mt-4">{{sdate}}</h2>
+          <h4 class="text-center mb-4">Start Date</h4>
+        </div>
+        <div class="col-md-3 border border-dark "style="border-radius: 50px;background: linear-gradient(90deg, #3F2B96 0%, #A8C0FF 100%);">
+          <h2 class="text-center mt-4">{{edate}}</h2>
+          <h4 class="text-center mb-4">End Date</h4>
+        </div>
+      </div>
+
+      <div class="row p-4">
+        <div class="col-md-3 border border-dark "style="border-radius: 50px;background: linear-gradient(90deg, #FDBB2D 0%, #22C1C3 100%);">
+          <h2 class="text-center mt-4">{{avg}} words</h2>
+          <h4 class="text-center mb-4">Average message length</h4>
+        </div>
+        <div
+          class="col-md-3 border border-dark"style="border-radius: 50px;background: rgb(238,174,202);
+          background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);"
+        >
+          <h2 class="text-center mt-4">{{maxl}} words</h2>
+          <h4 class="text-center mb-4">Maximum message length</h4>
+        </div>
+        <div class="col-md-3 border border-dark "style="border-radius: 50px;background: linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%);">
+          <h2 class="text-center mt-4">{{day}}</h2>
+          <h4 class="text-center mb-4">Most busy weekday</h4>
+        </div>
+        <div
+          class="col-md-3 border border-dark"style="border-radius: 50px;background: rgb(238,174,202);
+          background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);"
+        >
+          <h2 class="text-center mt-4">{{month}}</h2>
+          <h4 class="text-center mb-4">Most busy month</h4>
+        </div>
+      </div>
+
+      <div class="row p-4">
+        <div class="col" id="maxMsg"style="border-radius: 50px;background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);background-color:black">
+          <h2 class="text-center mt-4">{{name}}</h2>
+          <h4 class="text-center mb-4">Typed the most no.of charecters</h4>
+        </div>
+      </div>
+
+      <div class="row" >
+        <div class="col text-center">
+          <iframe src="{{url_for('static',filename = filename+'pie.html')}}" height="400px" width="600px" frameborder="0"></iframe>
+          <iframe src="{{url_for('static',filename = filename+'mactive.html')}}" height="400px" width="600px" frameborder="0"></iframe>
+        </div>
+      </div>
+      <div class="row mt-1">
+        <div class="col text-center">
+          <iframe src="{{url_for('static',filename = filename+'active.html')}}" height="400px" width="600px" frameborder="0"></iframe>
+          <!--<img
+            src="{{url_for('static',filename = 'images/dashboard/'+filename+'test.png')}}"
+            class="img-fluid"
+            style="border: 5px solid"
+          />-->
+          <iframe src="{{url_for('static',filename = filename+'mwise.html')}}" height="400px" width="600px" frameborder="0"></iframe>
+        </div>
+        
+      </div>
+      <div class="row mt-1">
+        <div class="col text-center">
+          <iframe src="{{url_for('static',filename = filename+'week.html')}}" height="400px" width="600px" frameborder="0"></iframe>
+          <!--<img
+            src="{{url_for('static',filename = 'images/dashboard/'+filename+'week.png')}}"
+            class="img-fluid"
+            style="border: 5px solid"
+          />-->
+        </div>
+      </div>
+
+      <div class="row mt-1" >
+        <div class="col text-center">
+          <img
+            src="{{url_for('static',filename = 'images/dashboard/'+filename+'word.svg')}}"
+            class="img-fluid"
+            style="border: 5px solid"
+          />
+        </div>
+      </div>
+    <div id="sentiment">
+    <div class="row mt-1" id="sentiment">
+      <h1 id="header" class="text-center p-2 mt-4 mb-5" style="font-size:55px">SENTIMENTAL ANALYSIS</h1>
+      <div class="col text-center">
+        
+        <iframe src="{{url_for('static',filename = filename+'sentipie.html')}}" height="400px" width="600px" frameborder="0"></iframe>
+        <!--<img
+          src="{{url_for('static',filename = 'images/dashboard/'+filename+'sentipie.png')}}"
+          class="img-fluid"
+          style="border: 5px solid"
+        />-->
+      </div>
+        <div class="col text-center">
+          <iframe src="{{url_for('static',filename = filename+'sentibar.html')}}" height="400px" width="600px" frameborder="0"></iframe>
+          <!--<img
+            src="{{url_for('static',filename = 'images/dashboard/'+filename+'sentibar.png')}}"
+            class="img-fluid"
+            style="border: 5px solid"
+          />-->
+        </div>
+    </div>
+  </div>
+</div>
+    <script
+      src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+      integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+      integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+      integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://cdn.lordicon.com/fudrjiwc.js"></script>
+  </body>
+</html>
